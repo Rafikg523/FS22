@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="32258247" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
-    <Slots capacity="5" numUsed="2">
-        <Player isUsed="true" isAdmin="false" uptime="62" x="818.808533" y="87.156601" z="381.231995">Server (1)</Player>
-        <Player isUsed="true" isAdmin="false" uptime="54" x="802.156921" y="88.006218" z="401.230377">Maks</Player>
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="32433797" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+    <Slots capacity="5" numUsed="0">
         <Player/>
+        <Player isUsed="false"/>
+        <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -71,9 +71,10 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="797.966187" y="87.026047" z="311.907257" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="787.532104" y="92.243111" z="381.860992" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="784.974915" y="87.262520" z="382.102783" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="ETV 216i" category="FORKLIFTS" type="teleHandler" x="786.010254" y="87.291885" z="385.354126" fillTypes="ELECTRICCHARGE" fillLevels="22.000" isAIActive="false"/>
+        <Vehicle name="ETV 216i" category="FORKLIFTS" type="teleHandler" x="786.010315" y="87.291893" z="385.354034" fillTypes="ELECTRICCHARGE" fillLevels="22.000" isAIActive="false"/>
         <Vehicle name="Honey Pallet" category="PALLETS" type="pallet" x="777.367615" y="87.629829" z="348.189087" fillTypes="HONEY" fillLevels="400.000"/>
         <Vehicle name="Honey Pallet" category="PALLETS" type="pallet" x="779.546448" y="86.994003" z="349.325897" fillTypes="HONEY" fillLevels="107.641"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="809.903870" y="87.001793" z="346.748810" fillTypes="EGG" fillLevels="29.167"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalCurrencies" author="Rockstar" version="1.0.0.1" hash="8af871774b83284f01a72965f12617dc">Additional Currencies</Mod>
