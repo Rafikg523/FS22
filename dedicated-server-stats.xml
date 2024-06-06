@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="40589130" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="40769134" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="5" numUsed="2">
-        <Player isUsed="true" isAdmin="true" uptime="36">Server (1)</Player>
-        <Player isUsed="true" isAdmin="false" uptime="36">Maks</Player>
+        <Player isUsed="true" isAdmin="true" uptime="42">Server (1)</Player>
+        <Player isUsed="true" isAdmin="false" uptime="42">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -11,13 +11,12 @@
     <Vehicles>
         <Vehicle name="NOVA 330" category="HARVESTERS" type="combineDrivable" x="857.166138" y="86.986122" z="369.007263" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 500.998 57.000" isAIActive="false"/>
         <Vehicle name="Power Stream 500" category="CUTTERS" type="cutter" x="861.308228" y="86.862839" z="370.773926"/>
-        <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="837.273865" y="83.590706" z="248.128403" fillTypes="SEEDS FERTILIZER" fillLevels="441.797 609.305"/>
+        <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="878.413025" y="83.601761" z="261.767181" fillTypes="SEEDS FERTILIZER" fillLevels="216.172 459.562"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="789.752991" y="87.235695" z="363.764374" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="787.372253" y="87.106804" z="373.996490"/>
         <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="810.501526" y="87.288376" z="411.614746"/>
         <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="784.627319" y="87.238251" z="378.490692"/>
         <Vehicle name="MaxiCut 600" category="MULCHERS" type="mulcherRoll" x="809.117065" y="87.381554" z="377.778381"/>
-        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="839.718384" y="87.080429" z="319.195007" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="335.994 38.000 2968.673" isAIActive="false"/>
         <Vehicle name="Q7M" category="FRONTLOADERS" type="attachableFrontloader" x="844.873169" y="87.571739" z="389.751129"/>
         <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="819.850159" y="86.988213" z="309.523621"/>
         <Vehicle name="Pallet Fork" category="FRONTLOADERTOOLS" type="implementDynamicMountAttacher" x="813.187805" y="87.488991" z="313.187012"/>
@@ -30,7 +29,7 @@
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="808.122009" y="87.024330" z="318.255615" fillTypes="SEEDS" fillLevels="309.475"/>
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="807.118408" y="87.024315" z="316.604279" fillTypes="SEEDS" fillLevels="1000.000"/>
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="807.165527" y="87.024330" z="318.164673" fillTypes="SEEDS" fillLevels="1000.000"/>
-        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="837.274719" y="83.627335" z="240.098770" controller="Server (1)" fillTypes="DIESEL DEF AIR" fillLevels="325.992 37.000 2154.470" isAIActive="false"/>
+        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="881.557190" y="83.597603" z="269.117432" controller="Server (1)" fillTypes="DIESEL DEF AIR" fillLevels="321.992 37.000 3774.270" isAIActive="false"/>
         <Vehicle name="Give way" category="MISC" type="trailer" x="742.420105" y="90.469543" z="338.370575" fillTypes="" fillLevels=""/>
         <Vehicle name="Give way" category="MISC" type="trailer" x="739.060303" y="91.036880" z="330.317627" fillTypes="" fillLevels=""/>
         <Vehicle name="Barrier fence" category="MISC" type="trailer" x="744.793701" y="89.968536" z="338.883820" fillTypes="" fillLevels=""/>
@@ -63,11 +62,12 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="797.965393" y="87.026047" z="311.906708" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.792969" y="87.258011" z="383.688721" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="784.976379" y="87.262756" z="382.100128" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="ETV 216i" category="FORKLIFTS" type="teleHandler" x="785.135254" y="87.291801" z="388.712250" fillTypes="ELECTRICCHARGE" fillLevels="22.000" isAIActive="false"/>
+        <Vehicle name="ETV 216i" category="FORKLIFTS" type="teleHandler" x="785.135254" y="87.291809" z="388.711670" fillTypes="ELECTRICCHARGE" fillLevels="22.000" isAIActive="false"/>
         <Vehicle name="Honey Pallet" category="PALLETS" type="pallet" x="777.369263" y="87.629822" z="348.189697" fillTypes="HONEY" fillLevels="400.000"/>
         <Vehicle name="Honey Pallet" category="PALLETS" type="pallet" x="779.546326" y="86.994003" z="349.325745" fillTypes="HONEY" fillLevels="107.641"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="809.903870" y="87.001793" z="346.748810" fillTypes="EGG" fillLevels="87.500"/>
         <Vehicle name="Solid Fertilizer" category="BIGBAGPALLETS" type="pallet" x="808.033020" y="86.960159" z="308.596283" fillTypes="FERTILIZER" fillLevels="1000.000"/>
+        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="400.145782" y="89.317917" z="-28.380255" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="334.993 38.000 2223.971" isAIActive="false"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
