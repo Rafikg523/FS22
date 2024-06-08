@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="32032374" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
-    <Slots capacity="5" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="121">Maks</Player>
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="32208467" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+    <Slots capacity="5" numUsed="2">
+        <Player isUsed="true" isAdmin="false" uptime="126" x="-836.613892" y="93.286369" z="660.953918">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="0">Server (1)</Player>
         <Player/>
-        <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -29,7 +29,7 @@
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="808.121277" y="87.024330" z="318.255066" fillTypes="SEEDS" fillLevels="309.475"/>
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="807.123047" y="87.024323" z="316.601654" fillTypes="SEEDS" fillLevels="1000.000"/>
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="807.165405" y="87.024323" z="318.164764" fillTypes="SEEDS" fillLevels="1000.000"/>
-        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="586.410828" y="90.494911" z="409.807526" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="240.984 35.000 2008.237" isAIActive="true"/>
+        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="-843.876404" y="92.617599" z="655.853760" fillTypes="DIESEL DEF AIR" fillLevels="236.984 35.000 3579.285" isAIActive="false"/>
         <Vehicle name="Give way" category="MISC" type="trailer" x="742.420105" y="90.469482" z="338.370605" fillTypes="" fillLevels=""/>
         <Vehicle name="Give way" category="MISC" type="trailer" x="746.265259" y="89.832741" z="333.746002" fillTypes="" fillLevels=""/>
         <Vehicle name="Barrier fence" category="MISC" type="trailer" x="744.789490" y="89.969185" z="338.881287" fillTypes="" fillLevels=""/>
@@ -50,7 +50,7 @@
         <Vehicle name="Universal Bucket" category="FRONTLOADERTOOLS" type="shovelLeveler" x="759.789185" y="88.589188" z="403.625793" fillTypes="UNKNOWN UNKNOWN" fillLevels="0.000 0.000"/>
         <Vehicle name="MF 1840" category="BALERS" type="baler" x="826.353027" y="86.980293" z="313.926422" fillTypes="STRAW" fillLevels="471.445"/>
         <Vehicle name="Z2-840 H" category="WINDROWERS" type="windrower" x="791.117859" y="87.140610" z="399.991272"/>
-        <Vehicle name="ETV 216i" category="FORKLIFTS" type="teleHandler" x="786.242188" y="87.292000" z="388.751892" fillTypes="ELECTRICCHARGE" fillLevels="22.000" isAIActive="false"/>
+        <Vehicle name="ETV 216i" category="FORKLIFTS" type="teleHandler" x="786.240784" y="87.292015" z="388.751892" fillTypes="ELECTRICCHARGE" fillLevels="22.000" isAIActive="false"/>
         <Vehicle name="Honey Pallet" category="PALLETS" type="pallet" x="777.308960" y="87.629814" z="348.167145" fillTypes="HONEY" fillLevels="400.000"/>
         <Vehicle name="Honey Pallet" category="PALLETS" type="pallet" x="777.100586" y="86.994011" z="344.704468" fillTypes="HONEY" fillLevels="400.000"/>
         <Vehicle name="Solid Fertilizer" category="BIGBAGPALLETS" type="pallet" x="808.033203" y="86.960167" z="308.596375" fillTypes="FERTILIZER" fillLevels="1000.000"/>
@@ -67,7 +67,7 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="762.018616" y="88.204117" z="395.228546" fillTypes="EGG" fillLevels="816.667"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="811.682678" y="87.024246" z="311.502319" fillTypes="LIME" fillLevels="1092.843"/>
         <Vehicle name="Solid Fertilizer" category="BIGBAGPALLETS" type="pallet" x="831.274536" y="86.759712" z="355.408173" fillTypes="FERTILIZER" fillLevels="439.478"/>
-        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="594.211243" y="90.310410" z="409.808350" fillTypes="UNKNOWN" fillLevels="0.000"/>
+        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="-836.365601" y="92.458397" z="657.482727" fillTypes="UNKNOWN" fillLevels="0.000"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
