@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="31335010" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
-    <Slots capacity="5" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="27">Maks</Player>
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="31500700" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+    <Slots capacity="5" numUsed="0">
         <Player/>
+        <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
     </Slots>
     <Vehicles>
-        <Vehicle name="NOVA 330" category="HARVESTERS" type="combineDrivable" x="686.270081" y="86.249702" z="129.683716" controller="Maks" fillTypes="WHEAT DIESEL DEF" fillLevels="3398.513 172.903 54.000" isAIActive="false"/>
+        <Vehicle name="NOVA 330" category="HARVESTERS" type="combineDrivable" x="687.423218" y="86.319595" z="129.116684" fillTypes="WHEAT DIESEL DEF" fillLevels="4900.000 167.901 54.000" isAIActive="false"/>
         <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="798.814392" y="87.338524" z="397.857208" fillTypes="DIESEL DEF AIR" fillLevels="173.974 38.000 2536.592" isAIActive="false"/>
-        <Vehicle name="Power Stream 500" category="CUTTERS" type="cutter" x="683.403076" y="85.937065" z="128.775253"/>
+        <Vehicle name="Power Stream 500" category="CUTTERS" type="cutter" x="684.362305" y="87.517509" z="126.930092"/>
         <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="816.700684" y="86.861298" z="397.677216" fillTypes="SEEDS FERTILIZER" fillLevels="49.710 485.602"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="791.285645" y="87.236023" z="363.720062" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="821.565613" y="86.506447" z="399.976837"/>
