@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="34587149" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
-    <Slots capacity="5" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="90">Maks</Player>
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="34694630" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+    <Slots capacity="5" numUsed="0">
         <Player/>
+        <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -10,7 +10,7 @@
     </Slots>
     <Vehicles>
         <Vehicle name="NOVA 330" category="HARVESTERS" type="combineDrivable" x="802.001831" y="87.385521" z="415.444885" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 131.888 54.000" isAIActive="false"/>
-        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="838.254028" y="85.565399" z="289.372406" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="162.974 37.000 3446.046" isAIActive="false"/>
+        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="801.398376" y="83.383606" z="199.918427" fillTypes="DIESEL DEF AIR" fillLevels="161.973 37.000 3446.046" isAIActive="false"/>
         <Vehicle name="Power Stream 500" category="CUTTERS" type="cutter" x="805.699585" y="88.494766" z="415.007690"/>
         <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="816.700378" y="86.861000" z="397.675598" fillTypes="SEEDS FERTILIZER" fillLevels="49.710 485.602"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="791.285583" y="87.235863" z="363.720184" fillTypes="UNKNOWN" fillLevels="0.000"/>
@@ -43,7 +43,7 @@
         <Vehicle name="Transportwagen TP 500 S Autoload" category="LOWLOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="792.807739" y="86.947975" z="397.945831" fillTypes="" fillLevels=""/>
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="807.919861" y="87.024323" z="316.505310" fillTypes="SEEDS" fillLevels="1000.000"/>
         <Vehicle name="Universal Bucket" category="FRONTLOADERTOOLS" type="shovelLeveler" x="846.543823" y="87.368027" z="393.548065" fillTypes="UNKNOWN UNKNOWN" fillLevels="0.000 0.000"/>
-        <Vehicle name="MF 1840" category="BALERS" type="baler" x="838.720642" y="84.993805" z="285.058746" fillTypes="STRAW" fillLevels="531.236"/>
+        <Vehicle name="MF 1840" category="BALERS" type="baler" x="797.272278" y="83.034462" z="199.835663" fillTypes="STRAW" fillLevels="648.168"/>
         <Vehicle name="Z2-840 H" category="WINDROWERS" type="windrower" x="852.627686" y="85.950768" z="321.089844"/>
         <Vehicle name="Honey Pallet" category="PALLETS" type="pallet" x="777.307861" y="87.629829" z="348.167969" fillTypes="HONEY" fillLevels="400.000"/>
         <Vehicle name="Honey Pallet" category="PALLETS" type="pallet" x="777.100525" y="86.994003" z="344.704346" fillTypes="HONEY" fillLevels="400.000"/>
