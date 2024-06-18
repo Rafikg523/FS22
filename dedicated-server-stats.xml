@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="29948220" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="30128222" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="5" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="114" x="850.378967" y="87.799980" z="373.439453">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="120">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -9,9 +9,9 @@
         <Player isUsed="false"/>
     </Slots>
     <Vehicles>
-        <Vehicle name="NOVA 330" category="HARVESTERS" type="combineDrivable" x="846.473633" y="83.306953" z="203.309296" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 130.888 57.000" isAIActive="false"/>
+        <Vehicle name="NOVA 330" category="HARVESTERS" type="combineDrivable" x="855.511719" y="82.495537" z="227.281235" controller="Maks" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 130.888 57.000" isAIActive="false"/>
         <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="880.381470" y="86.458954" z="340.320190" fillTypes="DIESEL DEF AIR" fillLevels="153.973 38.000 2336.677" isAIActive="false"/>
-        <Vehicle name="Power Stream 500" category="CUTTERS" type="cutter" x="850.007507" y="84.341461" z="204.661270"/>
+        <Vehicle name="Power Stream 500" category="CUTTERS" type="cutter" x="856.131348" y="83.834312" z="230.915863"/>
         <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="816.699524" y="86.861008" z="397.672302" fillTypes="SEEDS FERTILIZER" fillLevels="49.710 485.602"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="791.285583" y="87.235695" z="363.720184" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="821.563782" y="86.506615" z="399.979553"/>
