@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="33548296" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="33728302" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="5" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="234" x="975.894287" y="91.195801" z="197.776062">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="240">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -81,7 +81,7 @@
         <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="779.493774" y="87.735191" z="408.750122" fillTypes="FLOUR" fillLevels="1000.000"/>
         <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="776.505249" y="87.702164" z="407.126740" fillTypes="FLOUR" fillLevels="1000.000"/>
         <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="775.758850" y="87.696823" z="406.720612" fillTypes="FLOUR" fillLevels="1000.000"/>
-        <Vehicle name="931XC" category="WOODHARVESTING" type="woodHarvester" x="979.161377" y="90.650375" z="204.112183" fillTypes="DIESEL" fillLevels="387.999" isAIActive="false"/>
+        <Vehicle name="931XC" category="WOODHARVESTING" type="woodHarvester" x="944.455017" y="88.909653" z="193.257141" controller="Maks" fillTypes="DIESEL" fillLevels="387.999" isAIActive="false"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="809.903870" y="87.001793" z="346.748810" fillTypes="EGG" fillLevels="29.167"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="760.018921" y="88.204117" z="395.194702" fillTypes="EGG" fillLevels="105.000"/>
     </Vehicles>
@@ -351,7 +351,7 @@
         <Farmland name="" id="225" owner="0" area="12479" x="880.727356" z="105.325783"/>
         <Farmland name="" id="226" owner="0" area="26447" x="917.434753" z="85.069839"/>
         <Farmland name="" id="227" owner="0" area="26330" x="941.482483" z="113.771881"/>
-        <Farmland name="" id="228" owner="0" area="64827" x="938.639465" z="171.694275"/>
+        <Farmland name="" id="228" owner="1" area="64827" x="938.639465" z="171.694275"/>
         <Farmland name="" id="229" owner="1" area="41345" x="801.431213" z="177.358810"/>
         <Farmland name="" id="230" owner="1" area="30379" x="806.190186" z="204.973343"/>
         <Farmland name="" id="231" owner="1" area="53350" x="805.721252" z="237.183517"/>
@@ -512,7 +512,7 @@
         <Field id="144" x="879.679016" z="107.540001" isOwned="false"/>
         <Field id="145" x="918.114990" z="82.829803" isOwned="false"/>
         <Field id="146" x="938.655029" z="115.264999" isOwned="false"/>
-        <Field id="147" x="940.838013" z="160.774994" isOwned="false"/>
+        <Field id="147" x="940.838013" z="160.774994" isOwned="true"/>
         <Field id="148" x="813.593018" z="180.533997" isOwned="true"/>
         <Field id="149" x="813.593018" z="205.518005" isOwned="true"/>
         <Field id="150" x="817.414001" z="237.319000" isOwned="true"/>
