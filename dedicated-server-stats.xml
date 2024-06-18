@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="32288266" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="32468274" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="5" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="192" x="920.985596" y="87.734085" z="218.567291">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="198" x="929.208008" y="88.832825" z="243.769882">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -82,6 +82,8 @@
         <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="776.505249" y="87.702164" z="407.126740" fillTypes="FLOUR" fillLevels="1000.000"/>
         <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="775.758850" y="87.696823" z="406.720612" fillTypes="FLOUR" fillLevels="1000.000"/>
         <Vehicle name="931XC" category="WOODHARVESTING" type="woodHarvester" x="941.708740" y="89.635551" z="229.668961" fillTypes="DIESEL" fillLevels="389.999" isAIActive="false"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="809.903870" y="87.001793" z="346.748810" fillTypes="EGG" fillLevels="29.167"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="760.018921" y="88.204117" z="395.194702" fillTypes="EGG" fillLevels="105.000"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
