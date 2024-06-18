@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="36995692" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="37175700" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="5" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="102">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="108">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -10,7 +10,7 @@
     </Slots>
     <Vehicles>
         <Vehicle name="NOVA 330" category="HARVESTERS" type="combineDrivable" x="858.819275" y="82.719299" z="249.091232" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 130.888 57.000" isAIActive="false"/>
-        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="949.598022" y="88.830475" z="277.518311" fillTypes="DIESEL DEF AIR" fillLevels="398.000 38.000 2677.296" isAIActive="false"/>
+        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="946.724060" y="88.504288" z="280.535675" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="398.000 38.000 2428.844" isAIActive="false"/>
         <Vehicle name="Power Stream 500" category="CUTTERS" type="cutter" x="859.327209" y="84.146324" z="252.709564"/>
         <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="816.699524" y="86.861008" z="397.672302" fillTypes="SEEDS FERTILIZER" fillLevels="49.710 485.602"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="791.285583" y="87.235695" z="363.720184" fillTypes="UNKNOWN" fillLevels="0.000"/>
@@ -84,10 +84,10 @@
         <Vehicle name="931XC" category="WOODHARVESTING" type="woodHarvester" x="953.908875" y="89.567101" z="193.874908" fillTypes="DIESEL" fillLevels="382.999" isAIActive="false"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="809.903870" y="87.001793" z="346.748810" fillTypes="EGG" fillLevels="58.333"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="760.018921" y="88.204117" z="395.194702" fillTypes="EGG" fillLevels="210.000"/>
-        <Vehicle name="SCORPION 1033" category="TELELOADERVEHICLES" type="teleHandler" x="923.571777" y="87.105988" z="248.695480" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="148.000 10.000 1017.349" isAIActive="false"/>
-        <Vehicle name="Log Fork" category="TELELOADERTOOLS" type="logGrab" x="919.008667" y="86.868492" z="246.647522"/>
-        <Vehicle name="Dolly 10 L" category="DOLLYS" type="dolly" x="945.645081" y="88.341599" z="277.815735"/>
-        <Vehicle name="Timber Runner" category="WOOD" type="transportTrailer" x="939.490112" y="87.585518" z="278.243927"/>
+        <Vehicle name="SCORPION 1033" category="TELELOADERVEHICLES" type="teleHandler" x="940.591858" y="88.058167" z="270.087860" fillTypes="DIESEL DEF AIR" fillLevels="148.000 10.000 1099.044" isAIActive="false"/>
+        <Vehicle name="Log Fork" category="TELELOADERTOOLS" type="logGrab" x="939.181152" y="90.888115" z="275.348114"/>
+        <Vehicle name="Dolly 10 L" category="DOLLYS" type="dolly" x="945.614685" y="88.393791" z="277.835999"/>
+        <Vehicle name="Timber Runner" category="WOOD" type="transportTrailer" x="939.436218" y="87.589691" z="278.287537"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
