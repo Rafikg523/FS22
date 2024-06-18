@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="35375647" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="35555652" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="5" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="48">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="54" x="958.539001" y="91.574303" z="229.871704">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -51,7 +51,7 @@
         <Vehicle name="FGB 600" category="WEIGHTS" type="implement" x="819.982727" y="86.999138" z="308.499115"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="811.682617" y="87.024254" z="311.502014" fillTypes="LIME" fillLevels="1092.843"/>
         <Vehicle name="Solid Fertilizer" category="BIGBAGPALLETS" type="pallet" x="834.835388" y="86.906967" z="352.673401" fillTypes="FERTILIZER" fillLevels="439.478"/>
-        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="810.705017" y="86.900497" z="419.459625" fillTypes="UNKNOWN" fillLevels="0.000"/>
+        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="810.966309" y="86.935814" z="419.104675" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="792.580688" y="89.252060" z="391.125824" fillTypes="FLOUR" fillLevels="1000.000"/>
         <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="793.538635" y="89.252052" z="391.116730" fillTypes="FLOUR" fillLevels="1000.000"/>
         <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="795.029724" y="89.252060" z="390.993988" fillTypes="FLOUR" fillLevels="1000.000"/>
@@ -84,7 +84,7 @@
         <Vehicle name="931XC" category="WOODHARVESTING" type="woodHarvester" x="945.077209" y="89.213745" z="197.752609" fillTypes="DIESEL" fillLevels="382.999" isAIActive="false"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="809.903870" y="87.001793" z="346.748810" fillTypes="EGG" fillLevels="29.167"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="760.018921" y="88.204117" z="395.194702" fillTypes="EGG" fillLevels="105.000"/>
-        <Vehicle name="TGX 26.640" category="WOODHARVESTING" type="woodTruck" x="-236.287857" y="85.637009" z="198.045670" controller="Maks" fillTypes="DIESEL AIR" fillLevels="478.998 2017.516" isAIActive="false"/>
+        <Vehicle name="TGX 26.640" category="WOODHARVESTING" type="woodTruck" x="942.797729" y="88.468391" z="264.663086" fillTypes="DIESEL AIR" fillLevels="470.995 3520.890" isAIActive="false"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
