@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="34581628" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="34761630" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="132" x="506.258698" y="85.621368" z="-486.922058">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="138">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -96,13 +96,14 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="798.313599" y="87.782509" z="389.295319" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="799.182983" y="87.782509" z="390.530426" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.989990" y="88.204117" z="396.915833" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="503.681244" y="86.832428" z="-484.880249"/>
+        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="547.829224" y="93.809433" z="-380.316895"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="809.903748" y="87.001778" z="344.748840" fillTypes="EGG" fillLevels="700.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="797.488647" y="87.782501" z="389.304474" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="799.163330" y="87.782501" z="389.286987" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="760.018677" y="88.728615" z="395.195007" fillTypes="EGG" fillLevels="678.629"/>
-        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="497.217285" y="86.073875" z="-483.892609" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 530.862 79.999" isAIActive="false"/>
+        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="547.773010" y="92.672661" z="-386.794800" controller="Maks" fillTypes="BARLEY DIESEL DEF" fillLevels="10500.000 510.854 77.999" isAIActive="false"/>
         <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="865.062683" y="87.040985" z="369.513672" fillTypes="" fillLevels=""/>
+        <Vehicle name="Flour Pallet" category="PALLETS" type="pallet" x="415.436340" y="86.492058" z="345.565125" fillTypes="FLOUR" fillLevels="1000.000"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
