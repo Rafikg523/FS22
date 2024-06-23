@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="34401620" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="34581628" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="126">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="132" x="506.258698" y="85.621368" z="-486.922058">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -18,7 +18,7 @@
         <Vehicle name="Q7M" category="FRONTLOADERS" type="attachableFrontloader" x="822.131226" y="88.052658" z="310.590607"/>
         <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="834.241150" y="87.215393" z="326.981445"/>
         <Vehicle name="Pallet Fork" category="FRONTLOADERTOOLS" type="implementDynamicMountAttacher" x="826.241577" y="86.980400" z="308.190948"/>
-        <Vehicle name="CARAT 140 TD" category="TRAILERS" type="trailer" x="574.511902" y="86.388329" z="-163.326309" fillTypes="WHEAT" fillLevels="3265.899"/>
+        <Vehicle name="CARAT 140 TD" category="TRAILERS" type="trailer" x="527.539734" y="83.962105" z="-168.801239" fillTypes="BARLEY" fillLevels="11165.544"/>
         <Vehicle name="POV 5 XL" category="PLOWS" type="plowPacker" x="800.215698" y="87.048309" z="349.072449"/>
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="807.716003" y="87.024323" z="317.505890" fillTypes="SEEDS" fillLevels="1000.000"/>
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="808.182678" y="87.024307" z="318.249298" fillTypes="SEEDS" fillLevels="309.475"/>
@@ -32,7 +32,7 @@
         <Vehicle name="MF 1840" category="BALERS" type="baler" x="817.969482" y="86.990891" z="354.246185" fillTypes="STRAW" fillLevels="497.906"/>
         <Vehicle name="Z2-840 H" category="WINDROWERS" type="windrower" x="789.701843" y="87.140800" z="368.188690"/>
         <Vehicle name="Solid Fertilizer" category="BIGBAGPALLETS" type="pallet" x="808.033569" y="86.960175" z="308.596558" fillTypes="FERTILIZER" fillLevels="1000.000"/>
-        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="851.255005" y="86.777100" z="359.783112" fillTypes="DIESEL DEF AIR" fillLevels="205.978 38.000 2006.116" isAIActive="false"/>
+        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="852.777954" y="86.840240" z="359.592804" fillTypes="DIESEL DEF AIR" fillLevels="205.978 38.000 2006.116" isAIActive="false"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="813.543457" y="87.024315" z="311.086792" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="814.149048" y="87.024323" z="311.801727" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="814.657776" y="87.024330" z="311.131653" fillTypes="LIME" fillLevels="2000.000"/>
@@ -44,7 +44,7 @@
         <Vehicle name="Radium 255" category="TRAILERS" type="trailer" x="790.614380" y="87.252548" z="399.182373" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT A10 Cross Flow" category="MOWERS" type="mower" x="811.934021" y="86.836540" z="355.287903"/>
         <Vehicle name="IMPRESS 185VC PRO" category="BALERS" type="balerWrapper" x="822.208435" y="86.577560" z="400.682129" fillTypes="UNKNOWN" fillLevels="0.000"/>
-        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="568.431580" y="85.968010" z="-164.595490" fillTypes="DIESEL DEF AIR" fillLevels="297.900 51.000 2169.881" isAIActive="false"/>
+        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="523.448975" y="83.936546" z="-164.282822" fillTypes="DIESEL DEF AIR" fillLevels="292.899 51.000 1548.983" isAIActive="false"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="830.938660" y="87.000069" z="310.859894" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="830.852722" y="86.999634" z="309.964264" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="830.151001" y="87.000046" z="313.647858" fillTypes="LIME" fillLevels="2000.000"/>
@@ -96,12 +96,12 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="798.313599" y="87.782509" z="389.295319" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="799.182983" y="87.782509" z="390.530426" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.989990" y="88.204117" z="396.915833" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="528.960327" y="83.370216" z="-158.453415"/>
+        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="503.681244" y="86.832428" z="-484.880249"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="809.903748" y="87.001778" z="344.748840" fillTypes="EGG" fillLevels="700.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="797.488647" y="87.782501" z="389.304474" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="799.163330" y="87.782501" z="389.286987" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="760.018677" y="88.728615" z="395.195007" fillTypes="EGG" fillLevels="678.629"/>
-        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="524.126892" y="83.473351" z="-154.716843" controller="Maks" fillTypes="BARLEY DIESEL DEF" fillLevels="10420.890 537.865 80.999" isAIActive="false"/>
+        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="497.217285" y="86.073875" z="-483.892609" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 530.862 79.999" isAIActive="false"/>
         <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="865.062683" y="87.040985" z="369.513672" fillTypes="" fillLevels=""/>
     </Vehicles>
     <Mods>
@@ -352,11 +352,11 @@
         <Farmland name="" id="206" owner="0" area="47917" x="456.142059" z="-119.492645"/>
         <Farmland name="" id="207" owner="0" area="14507" x="471.656982" z="-156.637100"/>
         <Farmland name="" id="208" owner="0" area="10301" x="478.920746" z="-168.993805"/>
-        <Farmland name="" id="209" owner="1" area="76523" x="503.619202" z="-209.498444"/>
+        <Farmland name="" id="209" owner="0" area="76523" x="503.619202" z="-209.498444"/>
         <Farmland name="" id="210" owner="0" area="15268" x="549.398743" z="-42.194252"/>
         <Farmland name="" id="211" owner="0" area="53611" x="543.281982" z="-77.690514"/>
         <Farmland name="" id="212" owner="0" area="111487" x="616.904480" z="-108.969933"/>
-        <Farmland name="" id="213" owner="0" area="94114" x="537.501160" z="-408.479126"/>
+        <Farmland name="" id="213" owner="1" area="94114" x="537.501160" z="-408.479126"/>
         <Farmland name="" id="214" owner="0" area="33227" x="590.000000" z="-421.000000"/>
         <Farmland name="" id="215" owner="0" area="24755" x="616.202209" z="-420.532440"/>
         <Farmland name="" id="216" owner="0" area="57700" x="657.045105" z="-406.374786"/>
@@ -518,7 +518,7 @@
         <Field id="130" x="388.519012" z="-631.758972" isOwned="false"/>
         <Field id="131" x="397.342987" z="-620.596008" isOwned="false"/>
         <Field id="132" x="437.369995" z="-578.955994" isOwned="false"/>
-        <Field id="133" x="545.200012" z="-407.467010" isOwned="false"/>
+        <Field id="133" x="545.200012" z="-407.467010" isOwned="true"/>
         <Field id="134" x="590.260010" z="-417.182007" isOwned="false"/>
         <Field id="135" x="617.695007" z="-417.182007" isOwned="false"/>
         <Field id="136" x="653.085999" z="-408.179993" isOwned="false"/>
@@ -587,7 +587,7 @@
         <Field id="199" x="614.310974" z="-99.002098" isOwned="false"/>
         <Field id="200" x="550.513000" z="-36.369499" isOwned="false"/>
         <Field id="201" x="549.406006" z="-71.728104" isOwned="false"/>
-        <Field id="202" x="495.816010" z="-198.225998" isOwned="true"/>
+        <Field id="202" x="495.816010" z="-198.225998" isOwned="false"/>
         <Field id="203" x="482.808990" z="-165.285995" isOwned="false"/>
         <Field id="204" x="477.585999" z="-151.113007" isOwned="false"/>
         <Field id="205" x="455.841003" z="-121.480003" isOwned="false"/>
