@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="30262674" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="28892746" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="24">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="30" x="822.534058" y="87.886253" z="357.384338">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -38,11 +38,11 @@
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="800.022400" y="87.256302" z="390.302948" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="FGB 600" category="WEIGHTS" type="implement" x="819.869019" y="86.999710" z="346.477020"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="792.753540" y="87.256210" z="390.879944" fillTypes="LIME" fillLevels="1092.843"/>
-        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="-319.431152" y="87.137939" z="-345.404022" fillTypes="UNKNOWN" fillLevels="0.000"/>
+        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="799.241028" y="87.109016" z="421.229919" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Radium 255" category="TRAILERS" type="trailer" x="790.535400" y="87.252556" z="394.066467" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT A10 Cross Flow" category="MOWERS" type="mower" x="827.114868" y="86.765228" z="353.609009"/>
         <Vehicle name="IMPRESS 185VC PRO" category="BALERS" type="balerWrapper" x="817.647888" y="87.132133" z="388.137695" fillTypes="GRASS_WINDROW" fillLevels="1653.518"/>
-        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="-327.384583" y="87.291466" z="-343.480499" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="359.920 44.000 1826.647" isAIActive="false"/>
+        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="807.409119" y="86.960716" z="421.552521" fillTypes="DIESEL DEF AIR" fillLevels="354.919 43.000 1549.061" isAIActive="false"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="798.135986" y="87.256287" z="389.476349" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="796.946228" y="87.256279" z="391.012756" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGS" type="bigBag" x="794.101807" y="87.256287" z="391.064240" fillTypes="LIME" fillLevels="2000.000"/>
@@ -79,6 +79,17 @@
         <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="797.600952" y="87.300224" z="416.321777" fillTypes="" fillLevels=""/>
         <Vehicle name="TFK 200" category="WOOD" type="stumpCutterCultivatorPlow" x="778.256836" y="87.452293" z="353.247803"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="-263.899384" y="86.369888" z="-465.848145" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.325806" y="87.002510" z="312.134552" fillTypes="EGG" fillLevels="684.444"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="731.710083" y="88.128395" z="404.209534" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="755.503296" y="87.208015" z="380.965027" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="755.247314" y="87.200989" z="405.607239" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.095581" y="87.320862" z="352.841614" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.059143" y="87.309181" z="329.469238" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="733.714050" y="88.128395" z="404.246979" fillTypes="EGG" fillLevels="1120.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.503052" y="87.208015" z="380.998718" fillTypes="EGG" fillLevels="1120.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.247131" y="87.206314" z="405.640930" fillTypes="EGG" fillLevels="1120.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.095398" y="87.320862" z="352.815552" fillTypes="EGG" fillLevels="1120.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.058960" y="87.309181" z="329.443115" fillTypes="EGG" fillLevels="1120.000"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
