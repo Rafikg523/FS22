@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="29209981" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="29389982" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="2">
-        <Player isUsed="true" isAdmin="false" uptime="92">Server (1)</Player>
-        <Player isUsed="true" isAdmin="false" uptime="84">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="98">Server (1)</Player>
+        <Player isUsed="true" isAdmin="false" uptime="90">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
     </Slots>
     <Vehicles>
-        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="859.408142" y="85.923271" z="323.919128" fillTypes="DIESEL DEF AIR" fillLevels="367.996 38.000 2747.699" isAIActive="false"/>
+        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="859.408875" y="85.923248" z="323.919037" fillTypes="DIESEL DEF AIR" fillLevels="367.996 38.000 2747.699" isAIActive="false"/>
         <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="814.351440" y="87.168930" z="371.039642" fillTypes="SEEDS FERTILIZER" fillLevels="838.785 2282.615"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="806.299866" y="87.081474" z="356.046265" fillTypes="FERTILIZER" fillLevels="9095.146"/>
         <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="854.716431" y="86.752449" z="391.704071"/>
@@ -16,11 +16,11 @@
         <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="839.742310" y="86.960114" z="313.303192"/>
         <Vehicle name="MaxiCut 600" category="MULCHERS" type="mulcherRoll" x="789.122864" y="87.482315" z="378.055176"/>
         <Vehicle name="Q7M" category="FRONTLOADERS" type="attachableFrontloader" x="818.513794" y="86.694916" z="336.052887"/>
-        <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="844.249634" y="87.264328" z="393.369537"/>
+        <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="844.249634" y="87.264320" z="393.369965"/>
         <Vehicle name="Pallet Fork" category="FRONTLOADERTOOLS" type="implementDynamicMountAttacher" x="822.616333" y="87.390915" z="332.266418"/>
-        <Vehicle name="CARAT 140 TD" category="TRAILERS" type="trailer" x="768.557068" y="87.103539" z="317.199188" fillTypes="UNKNOWN" fillLevels="0.000"/>
+        <Vehicle name="CARAT 140 TD" category="TRAILERS" type="trailer" x="768.238464" y="87.128914" z="324.180969" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="POV 5 XL" category="PLOWS" type="plowPacker" x="796.719299" y="86.988945" z="334.275604"/>
-        <Vehicle name="2630" category="FRONTLOADERVEHICLES" type="tractor" x="844.248840" y="87.110725" z="391.710663" fillTypes="DIESEL" fillLevels="38.000" isAIActive="false"/>
+        <Vehicle name="2630" category="FRONTLOADERVEHICLES" type="tractor" x="844.248840" y="87.110718" z="391.711090" fillTypes="DIESEL" fillLevels="38.000" isAIActive="false"/>
         <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="821.290466" y="87.048492" z="330.855591"/>
         <Vehicle name="Transportwagen TP 500 S Autoload" category="LOWLOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="788.884705" y="87.023705" z="404.088074" fillTypes="" fillLevels=""/>
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="799.763733" y="87.256287" z="381.950195" fillTypes="SEEDS" fillLevels="559.185"/>
@@ -31,21 +31,21 @@
         <Vehicle name="Radium 255" category="TRAILERS" type="trailer" x="790.535400" y="87.252556" z="394.069214" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT A10 Cross Flow" category="MOWERS" type="mower" x="847.442749" y="86.816689" z="392.170044"/>
         <Vehicle name="IMPRESS 185VC PRO" category="BALERS" type="balerWrapper" x="819.899231" y="86.462746" z="415.364471" fillTypes="GRASS_WINDROW" fillLevels="1653.518"/>
-        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="769.002319" y="87.283676" z="310.977936" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="400.939 50.000 2403.199" isAIActive="false"/>
+        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="768.370605" y="87.264816" z="317.935913" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="399.939 50.000 2403.199" isAIActive="false"/>
         <Vehicle name="Scorpio 710" category="STONEPICKERS" type="stonePicker" x="824.618530" y="86.302322" z="416.227203" fillTypes="STONE" fillLevels="12.500"/>
         <Vehicle name="NOVACAT 301 AM ED Pro" category="MOWERS" type="mower" x="850.164246" y="86.803940" z="390.952454"/>
-        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="794.088135" y="88.322205" z="414.539551"/>
-        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="783.324341" y="87.457588" z="417.011719" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 103.537 97.765" isAIActive="false"/>
-        <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="791.602356" y="87.393341" z="414.872131" fillTypes="" fillLevels=""/>
+        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="794.088257" y="88.322464" z="414.538239"/>
+        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="783.324829" y="87.457603" z="417.011566" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 103.537 97.765" isAIActive="false"/>
+        <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="791.602600" y="87.393356" z="414.871918" fillTypes="" fillLevels=""/>
         <Vehicle name="TFK 200" category="WOOD" type="stumpCutterCultivatorPlow" x="812.077759" y="87.000023" z="330.768982"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="-263.901917" y="86.366669" z="-465.867371" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="861.559448" y="87.637810" z="367.391022" fillTypes="LETTUCE" fillLevels="500.000"/>
-        <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="874.870544" y="86.476982" z="161.356461" fillTypes="LETTUCE" fillLevels="500.000"/>
+        <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="877.583130" y="86.204338" z="161.426453" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="861.362732" y="87.051788" z="367.915283" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="876.613464" y="86.530968" z="140.505219" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="789.728271" y="87.308884" z="358.850250" fillTypes="UNKNOWN" fillLevels="0.000"/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="931.903503" y="86.974266" z="356.520660" controller="Server (1)" fillTypes="DIESEL DEF AIR" fillLevels="640.926 83.000 2636.480" isAIActive="false"/>
-        <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="936.341736" y="86.660484" z="363.755981"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="758.953674" y="85.614761" z="213.727417" controller="Server (1)" fillTypes="DIESEL DEF AIR" fillLevels="630.923 82.000 3000.000" isAIActive="true"/>
+        <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="767.513000" y="84.713295" z="213.729401"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="860.399353" y="87.051788" z="367.188263" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="876.996826" y="86.530975" z="141.300385" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="884.968201" y="86.524506" z="151.073227" fillTypes="LETTUCE" fillLevels="500.000"/>
