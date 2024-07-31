@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="34460142" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
-    <Slots capacity="4" numUsed="1">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="34481467" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+    <Slots capacity="4" numUsed="2">
         <Player isUsed="true" isAdmin="true" uptime="12">Server (1)</Player>
+        <Player isUsed="true" isAdmin="false" uptime="0">Maks</Player>
         <Player/>
-        <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
     </Slots>
     <Vehicles>
         <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="942.860779" y="94.303238" z="-255.658295" fillTypes="DIESEL DEF AIR" fillLevels="316.990 38.000 4000.000" isAIActive="false"/>
-        <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="858.231506" y="86.441139" z="338.746246" fillTypes="SEEDS FERTILIZER" fillLevels="929.787 2055.273"/>
+        <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="858.231873" y="86.441727" z="338.747681" fillTypes="SEEDS FERTILIZER" fillLevels="929.787 2055.273"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="806.301758" y="87.081459" z="356.045685" fillTypes="FERTILIZER" fillLevels="9095.146"/>
-        <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="932.509033" y="85.950485" z="107.632248"/>
+        <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="919.097473" y="85.773743" z="187.195587"/>
         <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="942.844360" y="93.822906" z="-261.557465"/>
-        <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="834.809265" y="86.990250" z="357.490479"/>
+        <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="834.809143" y="86.990295" z="357.490234"/>
         <Vehicle name="MaxiCut 600" category="MULCHERS" type="mulcherRoll" x="789.122864" y="87.482300" z="378.055145"/>
         <Vehicle name="Q7M" category="FRONTLOADERS" type="attachableFrontloader" x="817.826172" y="86.694954" z="335.547943"/>
         <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="844.249634" y="87.264305" z="393.383911"/>
@@ -31,7 +31,7 @@
         <Vehicle name="Radium 255" category="TRAILERS" type="trailer" x="790.535400" y="87.252556" z="394.069855" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT A10 Cross Flow" category="MOWERS" type="mower" x="847.442261" y="86.816696" z="392.170227"/>
         <Vehicle name="IMPRESS 185VC PRO" category="BALERS" type="balerWrapper" x="819.899841" y="86.458382" z="415.367065" fillTypes="GRASS_WINDROW" fillLevels="1653.518"/>
-        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="931.586792" y="86.018036" z="110.924713" fillTypes="DIESEL DEF AIR" fillLevels="231.902 56.000 3000.000" isAIActive="true"/>
+        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="920.009827" y="86.133064" z="183.918579" fillTypes="DIESEL DEF AIR" fillLevels="230.902 56.000 3000.000" isAIActive="true"/>
         <Vehicle name="Scorpio 710" category="STONEPICKERS" type="stonePicker" x="824.618591" y="86.301361" z="416.244720" fillTypes="STONE" fillLevels="12.500"/>
         <Vehicle name="NOVACAT 301 AM ED Pro" category="MOWERS" type="mower" x="850.164124" y="86.803925" z="390.952362"/>
         <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="951.720703" y="89.167854" z="-24.719728"/>
@@ -244,7 +244,7 @@
         <Vehicle name="Seeds" category="BIGBAGS" type="bigBag" x="701.003845" y="89.579430" z="417.499268" fillTypes="SEEDS" fillLevels="1000.000"/>
         <Vehicle name="Korn-Kali Solid Fertilizer" category="BIGBAGS" type="bigBag" x="703.183594" y="88.675064" z="423.899994" fillTypes="FERTILIZER" fillLevels="1000.000"/>
         <Vehicle name="Korn-Kali Solid Fertilizer" category="BIGBAGS" type="bigBag" x="700.618591" y="87.985420" z="434.020905" fillTypes="FERTILIZER" fillLevels="249.836"/>
-        <Vehicle name="Citan 15001-C" category="SEEDERS" type="fertilizingSowingMachine" x="838.691772" y="86.778282" z="403.016022" fillTypes="UNKNOWN FERTILIZER" fillLevels="0.000 2892.847"/>
+        <Vehicle name="Citan 15001-C" category="SEEDERS" type="fertilizingSowingMachine" x="887.855713" y="84.640602" z="176.645538" fillTypes="UNKNOWN FERTILIZER" fillLevels="0.000 2892.847"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.325806" y="87.002518" z="312.134827" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.325867" y="87.002518" z="312.134735" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325989" y="87.002075" z="312.134735" fillTypes="EGG" fillLevels="1400.000"/>
@@ -254,7 +254,7 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325989" y="87.002304" z="313.568878" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.325989" y="87.002327" z="313.568756" fillTypes="EGG" fillLevels="565.989"/>
         <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="793.723755" y="87.045837" z="354.110107"/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="828.962708" y="86.731422" z="402.841705" controller="Server (1)" fillTypes="DIESEL DEF AIR" fillLevels="925.999 88.000 1973.251" isAIActive="false"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="887.963074" y="85.348488" z="167.197250" controller="Server (1)" fillTypes="DIESEL DEF AIR" fillLevels="924.999 88.000 1849.541" isAIActive="false"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
