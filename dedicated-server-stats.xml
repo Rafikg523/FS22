@@ -1,19 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<Server>
- <Slots>
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
-  <Player isUsed="false" />
- </Slots>
- <Mods>
- </Mods>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="0" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="1">
+    <Slots capacity="4" numUsed="0">
+        <Player/>
+        <Player isUsed="false"/>
+        <Player isUsed="false"/>
+        <Player isUsed="false"/>
+        <Player isUsed="false"/>
+    </Slots>
+    <Mods>
+        <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
+        <Mod name="FS22_AllDecoTrees" author="KalifZerich" version="1.0.0.0" hash="d0c62cc093bc8ad61a36fc5b05e0ffdf">All Deco Trees</Mod>
+        <Mod name="FS22_AnimalFoodCalculator" author="BigFood2307" version="1.0.0.1" hash="b5bb0d8b8fadc6ac386aba7829b97270">Animal Food Calculator</Mod>
+        <Mod name="FS22_aPalletAutoLoader" author="Achimobil" version="1.12.0.0" hash="cbea8a628f223c918f48b952668f0f9e">Pallet Autoload Specialization</Mod>
+        <Mod name="FS22_AutoloaderStockPackjw" author="johnwayne1930" version="1.1.2.0" hash="99c7c3e29967d68628ef1525c6530b83">Autoload Stock Trailer Pack</Mod>
+        <Mod name="FS22_BetterContracts" author="Mmtrx" version="1.2.8.7" hash="66adac44cf45fa4ec345a60df9b47479">Better Contracts</Mod>
+        <Mod name="FS22_BigChickenBarn" author="Jelonek" version="1.1.0.0" hash="6270d6ed6732705095ee4b85ae6d8d49">Big Chicken Barn</Mod>
+        <Mod name="FS22_Brzozowka" author="VenTuriO,Pisel" version="1.0.0.4" hash="c92beae5129a2d3453393ec329565bff">BrzozÃ³wka</Mod>
+        <Mod name="FS22_CabView" author="loki_79" version="1.0.1.0" hash="ab58be4f369e8e852a63d40167733c71">Realistic Cab View</Mod>
+        <Mod name="FS22_Courseplay" author="Courseplay.devTeam" version="7.4.1.3" hash="fbb56182e54d627f7c5c07fd91bd4ed0">CoursePlay</Mod>
+        <Mod name="FS22_DashboardLive" author="Glowins Modschmiede" version="1.4.0.0" hash="eef0a77457d9800b264465e2079955d0">Dashboard Live</Mod>
+        <Mod name="FS22_DustyLandsExtension" author="FSG Modding" version="1.0.0.0" hash="5b2ae1c8805c19fa88c9a489d11f5d33">Dusty Lands Extension</Mod>
+        <Mod name="FS22_EnhancedLoanSystem" author="Chissel" version="1.2.0.0" hash="32dc204caa37184b2ae8235e8053306a">Enhanced Loan System</Mod>
+        <Mod name="FS22_exhaustExtension" author="Vector Man" version="1.1.2.0" hash="57580f6809d3e99ac55b0ec9f5852cc5">Exhaust Extension</Mod>
+        <Mod name="FS22_ExtendedGameInfoDisplay" author="Peppie84" version="1.2.0.0" hash="fd0ddeda2c318e1fbef016753b267e1f">Extended Game Infodisplay</Mod>
+        <Mod name="FS22_FieldCalculator" author="KR-Softwares" version="1.1.0.0" hash="6242ee3e4729a063f697d5ce764d0b1e">FieldCalculator</Mod>
+        <Mod name="FS22_FlowersPack" author="TrianglesTrouble" version="1.1.0.0" hash="ff50d73f7cf9d9e832f951f6239eea49">Flower Pots Pack</Mod>
+        <Mod name="FS22_FreeLandscapingTools" author="coolfarmer" version="1.0.0.0" hash="a53ecd42a5fba31139606c1161699d51">Free Landscaping Tools</Mod>
+        <Mod name="FS22_GermanSigns" author="nrxEcki" version="1.1.0.0" hash="47fbdf41d4b313813a90cb6547218986">German Road Signs</Mod>
+        <Mod name="FS22_guidanceSteering" author="Wopster" version="2.1.6.0" hash="15adafce7038589ebfdd9d004d49b728">Guidance Steering</Mod>
+        <Mod name="FS22_Hall_Configurator_Wood" author="farmerfivetom" version="1.0.0.0" hash="8807db8eca6caeb25c26409cc0db5551">Hall Configurator - Wood</Mod>
+        <Mod name="FS22_IncreaseLightRange" author="Rival" version="1.0.0.1" hash="79d0c6c08d5b9ec0f9736d184ec93fec">Increase Light Range</Mod>
+        <Mod name="FS22_interactiveControl" author="Vertex Dezign" version="1.2.0.0" hash="f7295554e70c991b2e313ea05a0b2574">Interactive Control</Mod>
+        <Mod name="FS22_LeaseToOwn" author="Bodzio528" version="1.0.1.0" hash="975cbbbfb20c58653309043242e40f90">Lease To Own</Mod>
+        <Mod name="FS22_Lizard_Trailed_Windrower" author="Hispano" version="1.0.0.0" hash="45dc3aace7bcb218839e47ff9b02f65c">Lizard Trailed Windrower</Mod>
+        <Mod name="FS22_lsfmFarmEquipmentPack" author="Farmer_Andy" version="1.0.0.9" hash="74aff6463fc2e64979914f8f5efc4e23">LSFM FarmEquipment Pack</Mod>
+        <Mod name="FS22_MoreTrees" author="KR-Softwares" version="1.0.0.0" hash="d93633799eedf10e92c1a1768760ef2b">MoreTrees</Mod>
+        <Mod name="FS22_MPsignPack" author="FSG Modding" version="1.0.0.0" hash="fa1b2491ad666d8c96959d824794d381">Multiplayer Sign Pack</Mod>
+        <Mod name="FS22_mudSystem" author="ViperGTS96" version="1.0.0.0" hash="416d76449b3be4f1b464da2bf48dafeb">Mud System</Mod>
+        <Mod name="FS22_Multi_Sign" author="Dominick" version="1.0.0.1" hash="9078d1261ca38f89e1e13d1db4d7e044">Multi Sign</Mod>
+        <Mod name="FS22_orchardsAndGreenhouses_crossplay" author="MrHector" version="1.0.1.0" hash="9d83fd08f443f5c0a3abfdc96cff17ed">Orchards And Greenhouses</Mod>
+        <Mod name="FS22_paintAndTerraformAnywhere" author="modelleicher" version="1.1.0.0" hash="7986a119fe50c5489aea0fbdd687ba15">Paint And Terraform Anywhere</Mod>
+        <Mod name="FS22_PalletTruck" author="JMZ" version="1.2.0.0" hash="0710288df7cd734c55010aafddb194f2">Pallet Trucks Pack</Mod>
+        <Mod name="FS22_PowerTools" author="w33zl" version="1.3.0.0" hash="5fdb7efb6900b70140e5e1f7dc8225fb">Power Tools</Mod>
+        <Mod name="FS22_rackAutoload" author="AgriKevolution" version="1.0.0.0" hash="bb573cd21cbc30684f8036eacdb2ed8a">Storage Racks</Mod>
+        <Mod name="FS22_RealDashboard" author="Perma&apos;s Modding, ThundR" version="1.0.0.0" hash="2b42872516602c316e79fe5eba59cd78">Real Dashboard</Mod>
+        <Mod name="FS22_realDirtColor" author="ViperGTS96" version="1.2.7.0" hash="6c4ed813b20b2596be0df32d300c6ace">Real Dirt Color</Mod>
+        <Mod name="FS22_Scorpio710" author="Blacksheep Modding" version="1.0.0.0" hash="857f33a65d1375efd1103afafd1b323f">ELHO Scorpio 710 Stone Picker</Mod>
+        <Mod name="FS22_SIMDashboard_Interface" author="stryder-it" version="1.0.3.0" hash="a7b518dd86e26b5b359ea190f4de4002">SIM Dashboard Interface</Mod>
+        <Mod name="FS22_SleepAnywhere" author="Ian898" version="1.0.0.0" hash="18abcec75ca9792c78326a5d0c6a69f2">Sleep Anywhere</Mod>
+        <Mod name="FS22_SpawnPalletsStacked" author="GMNGjoy" version="1.0.0.0" hash="d57768d5afda82cbf7db2f20465d4d23">Spawn Pallets Stacked</Mod>
+        <Mod name="FS22_SpeedCamera" author="tn4799, RickBlackLabele" version="2.1.0.0" hash="d3ea1b3962a5ef80f5cdea5160fdf3f3">Speed Camera</Mod>
+        <Mod name="FS22_TSStockCheck" author="twproductions" version="1.0.0.6" hash="60bc0bf1ffe1d935624d50426eda895b">Time Saving Stock Check</Mod>
+        <Mod name="FS22_VehicleControlAddon" author="mogli" version="1.2.0.0" hash="01d41eefe8fc0df285277bbb14f0dd3e">Vehicle Control Addon</Mod>
+        <Mod name="FS22_VehicleSaleSystemCustomizer" author="RedFoxModding" version="1.0.0.0" hash="bc6e8b2ccbbceaf4274d2b79326a7969">Vehicle Salesystem Customizer</Mod>
+        <Mod name="FS22_warehouseProps" author="Pascal Kautz" version="1.0.0.0" hash="37005b72b37c490de2a8a2da3d44f455">Placeable Warehouse Objects</Mod>
+    </Mods>
 </Server>
