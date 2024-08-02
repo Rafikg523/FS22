@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="33634304" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="33814310" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="true" uptime="66">Maks</Player>
+        <Player isUsed="true" isAdmin="true" uptime="72">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -12,7 +12,7 @@
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="806.229797" y="87.054161" z="355.542847" fillTypes="FERTILIZER" fillLevels="9095.146"/>
         <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="846.234436" y="86.747246" z="368.440826"/>
         <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="819.139709" y="87.241806" z="397.468628"/>
-        <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="834.800598" y="86.990135" z="357.468445"/>
+        <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="834.801025" y="86.989899" z="357.468597"/>
         <Vehicle name="MaxiCut 600" category="MULCHERS" type="mulcherRoll" x="789.123047" y="87.482292" z="378.055511"/>
         <Vehicle name="Q7M" category="FRONTLOADERS" type="attachableFrontloader" x="828.641541" y="86.754692" z="404.725372"/>
         <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="844.249451" y="87.264290" z="393.397461"/>
@@ -33,8 +33,8 @@
         <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="872.151855" y="87.102974" z="383.544037" fillTypes="DIESEL DEF AIR" fillLevels="147.889 56.000 2161.129" isAIActive="false"/>
         <Vehicle name="Scorpio 710" category="STONEPICKERS" type="stonePicker" x="824.618652" y="86.300240" z="416.267242" fillTypes="STONE" fillLevels="12.500"/>
         <Vehicle name="NOVACAT 301 AM ED Pro" category="MOWERS" type="mower" x="850.164124" y="86.803764" z="390.952576"/>
-        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="875.592834" y="89.132492" z="-396.660217"/>
-        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="873.536499" y="88.894157" z="-402.334076" fillTypes="WHEAT DIESEL DEF" fillLevels="253.116 367.766 80.999" isAIActive="true"/>
+        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="943.544128" y="88.623894" z="-336.234894"/>
+        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="941.490051" y="87.834854" z="-341.881073" fillTypes="WHEAT DIESEL DEF" fillLevels="3482.103 346.753 78.999" isAIActive="true"/>
         <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="793.048828" y="87.362427" z="416.600739" fillTypes="" fillLevels=""/>
         <Vehicle name="TFK 200" category="WOOD" type="stumpCutterCultivatorPlow" x="807.832214" y="87.000023" z="331.542603"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="-263.873138" y="86.369278" z="-465.866913" fillTypes="EGG" fillLevels="1400.000"/>
@@ -42,7 +42,7 @@
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="869.156555" y="88.852005" z="377.015747" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="867.651978" y="88.816467" z="376.888000" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="868.489380" y="88.803062" z="378.370392" fillTypes="LETTUCE" fillLevels="500.000"/>
-        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="830.273315" y="83.925636" z="-443.830017" fillTypes="WHEAT" fillLevels="31939.891"/>
+        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="913.414551" y="84.391647" z="285.466278" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="868.322571" y="88.845253" z="375.530975" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="869.574646" y="88.837631" z="377.754486" fillTypes="LETTUCE" fillLevels="500.000"/>
         <Vehicle name="Lettuce Pallet" category="PALLETS" type="pallet" x="870.433167" y="88.087067" z="379.224976" fillTypes="LETTUCE" fillLevels="500.000"/>
@@ -129,7 +129,7 @@
         <Vehicle name="Korn-Kali Solid Fertilizer" category="BIGBAGS" type="bigBag" x="700.618774" y="87.985367" z="434.020874" fillTypes="FERTILIZER" fillLevels="249.836"/>
         <Vehicle name="Citan 15001-C" category="SEEDERS" type="fertilizingSowingMachine" x="791.227234" y="87.242569" z="374.186859" fillTypes="SEEDS FERTILIZER" fillLevels="2287.613 2417.734"/>
         <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="793.723938" y="87.046005" z="354.110199"/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="821.804688" y="84.094048" z="-444.226715" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="836.970 86.000 2481.663" isAIActive="false"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="914.027039" y="84.308662" z="276.623901" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="831.969 85.000 2376.407" isAIActive="false"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="756.816223" y="87.204605" z="405.901306" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.016785" y="87.208000" z="381.564575" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="758.306396" y="87.320854" z="353.120117" fillTypes="EGG" fillLevels="1400.000"/>
