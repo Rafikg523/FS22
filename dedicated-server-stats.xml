@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="30421917" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
-    <Slots capacity="4" numUsed="0">
+    <Slots capacity="4" numUsed="1">
+        <Player isUsed="true" isAdmin="false" uptime="0">Maks</Player>
         <Player/>
-        <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -36,7 +36,7 @@
         <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="857.198975" y="87.122925" z="370.394867" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 564.873 100.000" isAIActive="false"/>
         <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="814.561401" y="86.390953" z="423.618530" fillTypes="" fillLevels=""/>
         <Vehicle name="TFK 200" category="WOOD" type="stumpCutterCultivatorPlow" x="820.812256" y="87.000023" z="332.598358"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="-263.844910" y="86.378975" z="-465.863190" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="-263.946747" y="86.361061" z="-465.867584" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="806.819580" y="87.308945" z="380.075745" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="K165" category="FERTILIZERSPREADERS" type="spreader" x="789.368347" y="87.299362" z="364.808594" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="-106.570442" y="85.419983" z="-200.860626" fillTypes="LIME" fillLevels="2000.000"/>
@@ -49,7 +49,7 @@
         <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="738.799255" y="86.820023" z="416.234833" fillTypes="DIESEL DEF AIR" fillLevels="455.959 56.000 1619.227" isAIActive="false"/>
         <Vehicle name="Bicycle" category="LSFMFARMEQUIPMENTPACK" type="FS22_lsfmFarmEquipmentPack.bicycle" x="854.808960" y="86.900108" z="392.109100" fillTypes="" fillLevels="" isAIActive="false"/>
         <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="738.396423" y="91.856689" z="-253.780365" fillTypes="DIESEL DEF AIR" fillLevels="913.996 88.000 2440.301" isAIActive="false"/>
-        <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="763.122559" y="87.314102" z="342.570465" fillTypes="LIME" fillLevels="1274.913"/>
+        <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="763.123840" y="87.314247" z="342.571503" fillTypes="LIME" fillLevels="1274.913"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
