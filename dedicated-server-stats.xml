@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="36583041" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="36943051" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="true" uptime="144">Maks</Player>
+        <Player isUsed="true" isAdmin="true" uptime="150">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -37,17 +37,17 @@
         <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="819.805420" y="86.734741" z="408.865753" fillTypes="" fillLevels=""/>
         <Vehicle name="TFK 200" category="WOOD" type="stumpCutterCultivatorPlow" x="820.812256" y="87.000023" z="332.598358"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="-263.887665" y="86.367683" z="-465.865967" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="118.737953" y="87.445969" z="-553.642151" fillTypes="BARLEY" fillLevels="42545.291"/>
+        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="-239.332581" y="87.096825" z="-592.467468" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="K165" category="FERTILIZERSPREADERS" type="spreader" x="766.484131" y="86.991920" z="426.957611" fillTypes="FERTILIZER" fillLevels="9765.149"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="-106.570442" y="85.419983" z="-200.860626" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="-107.205391" y="85.419991" z="-202.329163" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="-107.840218" y="85.419975" z="-203.797592" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="-108.468941" y="85.419983" z="-205.260849" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Citan 15001-C" category="SEEDERS" type="fertilizingSowingMachine" x="827.434387" y="86.156540" z="416.767273" fillTypes="SEEDS FERTILIZER" fillLevels="577.675 3201.172"/>
-        <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="789.202393" y="87.011436" z="353.345215"/>
+        <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="789.202576" y="87.011650" z="353.345306"/>
         <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="856.309814" y="87.180626" z="376.476562" fillTypes="DIESEL DEF AIR" fillLevels="387.999 38.000 2991.797" isAIActive="false"/>
         <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="817.279114" y="87.335854" z="373.785522" fillTypes="DIESEL DEF AIR" fillLevels="344.937 56.000 1511.715" isAIActive="false"/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="127.581337" y="87.526024" z="-553.639832" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="630.917 81.000 2599.917" isAIActive="true"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="-239.307571" y="87.006615" z="-601.311829" fillTypes="DIESEL DEF AIR" fillLevels="622.915 80.000 1883.028" isAIActive="false"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="763.214111" y="87.320076" z="342.414398" fillTypes="LIME" fillLevels="1274.913"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="756.860291" y="87.320854" z="354.060303" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="760.332214" y="87.309181" z="329.307343" fillTypes="EGG" fillLevels="1400.000"/>
@@ -213,7 +213,7 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.325989" y="87.002525" z="315.002777" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.325500" y="87.527016" z="312.135803" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.246765" y="87.726204" z="405.674622" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="761.095154" y="87.845360" z="352.789398" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="761.095154" y="87.845345" z="352.789398" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.502686" y="87.732513" z="381.032013" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="735.709900" y="88.640846" z="404.286469" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.325500" y="87.527023" z="312.136108" fillTypes="EGG" fillLevels="1400.000"/>
@@ -239,8 +239,8 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.081421" y="87.833679" z="331.189911" fillTypes="EGG" fillLevels="490.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.326599" y="88.051506" z="313.569794" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.327271" y="88.051506" z="313.570953" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="LEXION 8900" category="HARVESTERS" type="combineDrivable" x="-549.063477" y="94.804024" z="-926.781616" fillTypes="BARLEY DIESEL DEF" fillLevels="7567.410 834.809 75.999" isAIActive="true"/>
-        <Vehicle name="CONVIO FLEX 1380" category="CUTTERS" type="cutter" x="-544.249451" y="95.270348" z="-927.404907"/>
+        <Vehicle name="LEXION 8900" category="HARVESTERS" type="combineDrivable" x="-264.010071" y="87.586639" z="-724.856628" controller="Maks" fillTypes="BARLEY DIESEL DEF" fillLevels="17110.926 823.803 74.999" isAIActive="false"/>
+        <Vehicle name="CONVIO FLEX 1380" category="CUTTERS" type="cutter" x="-263.892303" y="89.055832" z="-719.585999"/>
         <Vehicle name="N60-45" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="-212.833374" y="87.271515" z="-548.409607" fillTypes="" fillLevels=""/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325867" y="88.051521" z="313.570404" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.326172" y="88.051521" z="313.568939" fillTypes="EGG" fillLevels="530.833"/>
