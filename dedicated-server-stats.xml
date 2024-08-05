@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="32341322" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
-    <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="48">Maks</Player>
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="32445250" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+    <Slots capacity="4" numUsed="0">
         <Player/>
+        <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -47,7 +47,7 @@
         <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="789.206299" y="87.255760" z="353.343781"/>
         <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="803.621399" y="87.130432" z="336.899261" fillTypes="DIESEL DEF AIR" fillLevels="386.999 38.000 2139.384" isAIActive="false"/>
         <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="857.070129" y="87.178581" z="381.401306" fillTypes="DIESEL DEF AIR" fillLevels="340.936 56.000 2713.149" isAIActive="false"/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="737.205444" y="91.101326" z="334.094482" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="530.887 84.000 2513.171" isAIActive="true"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="737.205444" y="91.101326" z="334.094482" fillTypes="DIESEL DEF AIR" fillLevels="530.887 83.000 2513.171" isAIActive="true"/>
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="763.183655" y="87.320549" z="342.530853" fillTypes="LIME" fillLevels="1274.913"/>
         <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="789.954773" y="87.389046" z="374.222595"/>
         <Vehicle name="TS 1520/M3" category="WEEDERS" type="weeder" x="797.400024" y="87.383148" z="378.493683"/>
@@ -62,7 +62,7 @@
         <Vehicle name="N60-45" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="813.732788" y="86.440880" z="423.017334" fillTypes="" fillLevels=""/>
         <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="837.550476" y="87.117287" z="375.401398" fillTypes="DIESEL DEF AIR" fillLevels="867.978 86.000 1736.601" isAIActive="false"/>
         <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="785.492249" y="86.967506" z="302.563568" fillTypes="BARLEY" fillLevels="19800.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.118042" y="87.320862" z="354.562958" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.118042" y="87.320854" z="354.562958" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="755.503296" y="87.208015" z="380.965027" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.059143" y="87.309181" z="329.469238" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.117859" y="87.320862" z="354.536896" fillTypes="EGG" fillLevels="1400.000"/>
@@ -76,8 +76,8 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.325867" y="87.002525" z="313.568787" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325989" y="87.002518" z="313.568878" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.325928" y="87.002518" z="313.568787" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.325806" y="87.002525" z="315.002747" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.325989" y="87.002525" z="315.002777" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.325806" y="87.002525" z="315.003571" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.325989" y="87.002525" z="315.002747" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="761.117676" y="87.320862" z="354.510834" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325867" y="87.002533" z="315.002838" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.502686" y="87.208008" z="381.032471" fillTypes="EGG" fillLevels="1400.000"/>
@@ -91,14 +91,14 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.326111" y="87.527016" z="313.570099" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325500" y="87.527023" z="313.569611" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.325806" y="87.527023" z="313.569702" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.325928" y="87.527016" z="315.003815" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.325928" y="87.527016" z="315.003571" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.326050" y="87.527023" z="315.004883" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.326050" y="87.527023" z="315.003479" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325806" y="87.527016" z="315.003174" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.325928" y="87.527023" z="315.003601" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.118042" y="87.845352" z="354.562988" fillTypes="EGG" fillLevels="840.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.118103" y="87.845352" z="354.562988" fillTypes="EGG" fillLevels="945.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.326294" y="88.051514" z="312.141998" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="755.474304" y="87.208015" z="382.686279" fillTypes="EGG" fillLevels="840.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.081604" y="87.309181" z="331.190582" fillTypes="EGG" fillLevels="840.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="755.474304" y="87.208015" z="382.686279" fillTypes="EGG" fillLevels="945.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.081604" y="87.309174" z="331.190613" fillTypes="EGG" fillLevels="945.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.327271" y="88.051506" z="312.138947" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325806" y="88.051506" z="312.135437" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.326050" y="88.051506" z="312.135254" fillTypes="EGG" fillLevels="1400.000"/>
@@ -106,9 +106,12 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.328125" y="88.051514" z="313.571350" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="781.325684" y="88.051498" z="313.568970" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="783.325806" y="88.051521" z="313.569061" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.330811" y="88.051514" z="315.007538" fillTypes="EGG" fillLevels="414.167"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="777.331177" y="88.051521" z="315.008698" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="747.702637" y="86.176888" z="428.519012" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="747.811890" y="86.176880" z="429.403625" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="755.247314" y="87.200989" z="405.607239" fillTypes="EGG" fillLevels="105.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="779.326233" y="88.051514" z="315.003052" fillTypes="EGG" fillLevels="472.500"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="731.709839" y="88.128410" z="404.209686" fillTypes="EGG" fillLevels="105.000"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
