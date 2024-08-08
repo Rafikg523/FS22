@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="39855234" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="40215239" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="true" uptime="240">Maks</Player>
+        <Player isUsed="true" isAdmin="true" uptime="246">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -10,8 +10,8 @@
     <Vehicles>
         <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="790.815186" y="87.285316" z="424.106903" fillTypes="SEEDS FERTILIZER" fillLevels="347.100 1719.761"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="809.615845" y="87.185608" z="380.033142" fillTypes="UNKNOWN" fillLevels="0.000"/>
-        <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="733.641174" y="88.291626" z="-13.725574"/>
-        <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="909.905701" y="87.351730" z="35.799610"/>
+        <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="844.415039" y="86.250435" z="27.265375"/>
+        <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="909.604614" y="85.226273" z="161.482315"/>
         <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="805.473755" y="87.043060" z="418.031464"/>
         <Vehicle name="MaxiCut 600" category="MULCHERS" type="mulcherRoll" x="789.123596" y="87.482323" z="378.056824"/>
         <Vehicle name="Q7M" category="FRONTLOADERS" type="attachableFrontloader" x="856.813232" y="87.178391" z="376.605042"/>
@@ -29,7 +29,7 @@
         <Vehicle name="Radium 255" category="TRAILERS" type="trailer" x="788.386780" y="87.251381" z="394.544098" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT A10 Cross Flow" category="MOWERS" type="mower" x="847.441589" y="86.816689" z="392.170227"/>
         <Vehicle name="IMPRESS 185VC PRO" category="BALERS" type="balerWrapper" x="819.912903" y="86.455765" z="415.420532" fillTypes="GRASS_WINDROW" fillLevels="1653.518"/>
-        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="909.994141" y="87.182991" z="29.503551" fillTypes="DIESEL DEF AIR" fillLevels="218.903 45.000 2021.436" isAIActive="true"/>
+        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="909.601379" y="85.903839" z="155.320923" fillTypes="DIESEL DEF AIR" fillLevels="212.903 44.000 3000.000" isAIActive="true"/>
         <Vehicle name="Scorpio 710" category="STONEPICKERS" type="stonePicker" x="796.815369" y="87.267319" z="419.893341" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT 301 AM ED Pro" category="MOWERS" type="mower" x="850.163208" y="86.803932" z="390.953552"/>
         <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="812.736694" y="87.109901" z="428.739655"/>
@@ -46,9 +46,9 @@
         <Vehicle name="Citan 15001-C" category="SEEDERS" type="fertilizingSowingMachine" x="770.440491" y="87.142784" z="423.621429" fillTypes="SEEDS FERTILIZER" fillLevels="591.887 3295.615"/>
         <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="783.735413" y="87.409325" z="426.210938"/>
         <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="855.776306" y="87.180466" z="376.588593" fillTypes="DIESEL DEF AIR" fillLevels="386.999 38.000 4000.000" isAIActive="false"/>
-        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="736.971252" y="88.352165" z="-12.940839" fillTypes="DIESEL DEF AIR" fillLevels="209.907 46.000 3000.000" isAIActive="true"/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="742.388062" y="90.490921" z="-393.397766" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="902.995 86.000 2824.541" isAIActive="true"/>
-        <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="746.052185" y="90.843201" z="-387.724213"/>
+        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="847.831238" y="86.249939" z="27.267763" fillTypes="DIESEL DEF AIR" fillLevels="203.906 46.000 3000.000" isAIActive="true"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="806.889099" y="87.050980" z="-414.608826" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="896.993 85.000 2594.959" isAIActive="true"/>
+        <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="808.912659" y="87.179497" z="-407.910583"/>
         <Vehicle name="TS 1520/M3" category="WEEDERS" type="weeder" x="934.016724" y="87.941322" z="2.349908"/>
         <Vehicle name="LEXION 8900" category="HARVESTERS" type="combineDrivable" x="856.977478" y="87.060539" z="366.793549" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 620.680 100.000" isAIActive="false"/>
         <Vehicle name="CONVIO FLEX 1380" category="CUTTERS" type="cutter" x="815.627625" y="87.233688" z="423.362213"/>
