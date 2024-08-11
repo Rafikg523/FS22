@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="29520305" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="29880315" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="true" uptime="60">Maks</Player>
+        <Player isUsed="true" isAdmin="true" uptime="66">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -10,32 +10,32 @@
     <Vehicles>
         <Vehicle name="Terrasem C6F" category="SEEDERS" type="fertilizingSowingMachine" x="790.815491" y="87.285385" z="424.106079" fillTypes="SEEDS FERTILIZER" fillLevels="347.100 1719.761"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="793.057983" y="87.235710" z="387.969940" fillTypes="UNKNOWN" fillLevels="0.000"/>
-        <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="800.712280" y="87.029709" z="418.310791"/>
+        <Vehicle name="CHOPSTAR 5-90 + ROW-GUARD" category="WEEDERS" type="weeder" x="800.713196" y="87.030632" z="418.309357"/>
         <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="789.673767" y="87.391159" z="374.783691"/>
-        <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="805.472656" y="87.043053" z="418.031158"/>
+        <Vehicle name="Smaragd 9/500K" category="CULTIVATORS" type="cultivator" x="805.669983" y="87.217323" z="384.757263"/>
         <Vehicle name="MaxiCut 600" category="MULCHERS" type="mulcherRoll" x="789.123840" y="87.482292" z="378.056732"/>
-        <Vehicle name="Q7M" category="FRONTLOADERS" type="attachableFrontloader" x="807.030151" y="87.132065" z="345.033783"/>
-        <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="844.436890" y="87.264320" z="393.198853"/>
+        <Vehicle name="Q7M" category="FRONTLOADERS" type="attachableFrontloader" x="807.030518" y="87.132057" z="345.033813"/>
+        <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="844.436829" y="87.264320" z="393.199921"/>
         <Vehicle name="Pallet Fork" category="FRONTLOADERTOOLS" type="implementDynamicMountAttacher" x="802.242920" y="86.996162" z="350.902344"/>
         <Vehicle name="CARAT 140 TD" category="TRAILERS" type="trailer" x="789.750610" y="87.228302" z="358.050140" fillTypes="UNKNOWN" fillLevels="0.000"/>
-        <Vehicle name="POV 5 XL" category="PLOWS" type="plowPacker" x="816.619385" y="86.661880" z="416.212677"/>
-        <Vehicle name="2630" category="FRONTLOADERVEHICLES" type="tractor" x="844.578186" y="87.110725" z="391.545868" fillTypes="DIESEL" fillLevels="38.000" isAIActive="false"/>
-        <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="810.193909" y="87.529922" z="345.138367"/>
+        <Vehicle name="POV 5 XL" category="PLOWS" type="plowPacker" x="812.364258" y="87.195824" z="382.807098"/>
+        <Vehicle name="2630" category="FRONTLOADERVEHICLES" type="tractor" x="844.578186" y="87.110725" z="391.546936" fillTypes="DIESEL" fillLevels="38.000" isAIActive="false"/>
+        <Vehicle name="BIG BAG LIFTER - SINGLE" category="FRONTLOADERTOOLS" type="implement" x="810.194214" y="87.529915" z="345.138367"/>
         <Vehicle name="Transportwagen TP 500 S Autoload" category="LOWLOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="791.133179" y="86.948036" z="398.688080" fillTypes="" fillLevels=""/>
         <Vehicle name="Universal Bucket" category="FRONTLOADERTOOLS" type="shovelLeveler" x="806.711304" y="86.999039" z="338.667542" fillTypes="UNKNOWN UNKNOWN" fillLevels="0.000 0.000"/>
         <Vehicle name="Z2-840 H" category="WINDROWERS" type="windrower" x="790.032593" y="87.141350" z="369.004913"/>
         <Vehicle name="FGB 600" category="WEIGHTS" type="implement" x="823.912476" y="84.807304" z="434.608368"/>
-        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="744.965454" y="86.141678" z="425.481445" fillTypes="UNKNOWN" fillLevels="0.000"/>
+        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="744.965515" y="86.142586" z="425.481598" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Radium 255" category="TRAILERS" type="trailer" x="788.386230" y="87.251045" z="394.543732" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT A10 Cross Flow" category="MOWERS" type="mower" x="847.441467" y="86.816696" z="392.170166"/>
-        <Vehicle name="IMPRESS 185VC PRO" category="BALERS" type="balerWrapper" x="819.913269" y="86.455582" z="415.423431" fillTypes="GRASS_WINDROW" fillLevels="1653.518"/>
-        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="847.581116" y="87.179146" z="381.412079" fillTypes="DIESEL DEF AIR" fillLevels="199.900 56.000 2610.366" isAIActive="false"/>
-        <Vehicle name="Scorpio 710" category="STONEPICKERS" type="stonePicker" x="796.815857" y="87.267708" z="419.894928" fillTypes="UNKNOWN" fillLevels="0.000"/>
+        <Vehicle name="IMPRESS 185VC PRO" category="BALERS" type="balerWrapper" x="819.913391" y="86.455460" z="415.425110" fillTypes="GRASS_WINDROW" fillLevels="1653.518"/>
+        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="806.030884" y="87.335342" z="378.061707" fillTypes="DIESEL DEF AIR" fillLevels="199.900 56.000 2423.629" isAIActive="false"/>
+        <Vehicle name="Scorpio 710" category="STONEPICKERS" type="stonePicker" x="796.816284" y="87.267258" z="419.895416" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT 301 AM ED Pro" category="MOWERS" type="mower" x="850.163025" y="86.803917" z="390.953522"/>
-        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="862.388306" y="87.100227" z="330.479858"/>
-        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="855.896973" y="86.185143" z="329.937927" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 797.999 100.000" isAIActive="false"/>
+        <Vehicle name="CONVIO FLEX 1080" category="CUTTERS" type="cutter" x="853.675659" y="85.231476" z="292.868561"/>
+        <Vehicle name="TRION 750-720" category="HARVESTERS" type="combineDrivable" x="855.464294" y="84.713623" z="287.091156" fillTypes="BARLEY DIESEL DEF" fillLevels="9240.534 779.986 99.000" isAIActive="true"/>
         <Vehicle name="N60-35" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="854.715637" y="86.337830" z="446.795135" fillTypes="" fillLevels=""/>
-        <Vehicle name="TFK 200" category="WOOD" type="stumpCutterCultivatorPlow" x="803.000916" y="87.381958" z="344.900177"/>
+        <Vehicle name="TFK 200" category="WOOD" type="stumpCutterCultivatorPlow" x="803.001221" y="87.381958" z="344.900208"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="-263.901733" y="86.366447" z="-465.869446" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="778.846985" y="87.454300" z="420.924469" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="K165" category="FERTILIZERSPREADERS" type="spreader" x="791.471008" y="87.294983" z="384.095337" fillTypes="FERTILIZER" fillLevels="2360.004"/>
@@ -45,16 +45,16 @@
         <Vehicle name="Lime" category="BIGBAGPALLETS" type="pallet" x="-108.468941" y="85.419983" z="-205.260849" fillTypes="LIME" fillLevels="2000.000"/>
         <Vehicle name="Citan 15001-C" category="SEEDERS" type="fertilizingSowingMachine" x="770.440186" y="87.145210" z="423.622467" fillTypes="SEEDS FERTILIZER" fillLevels="591.887 3295.615"/>
         <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="783.737183" y="87.411247" z="426.208496"/>
-        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="805.993835" y="87.115067" z="344.999481" fillTypes="DIESEL DEF AIR" fillLevels="386.999 38.000 4000.000" isAIActive="false"/>
-        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="827.725891" y="87.292488" z="371.756500" fillTypes="DIESEL DEF AIR" fillLevels="179.901 55.000 2567.584" isAIActive="false"/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="741.520813" y="86.481110" z="417.135834" fillTypes="DIESEL DEF AIR" fillLevels="845.981 88.000 2603.150" isAIActive="false"/>
+        <Vehicle name="700 Vario" category="TRACTORSM" type="tractor" x="805.994141" y="87.115067" z="344.999481" fillTypes="DIESEL DEF AIR" fillLevels="386.999 38.000 4000.000" isAIActive="false"/>
+        <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="795.344482" y="87.460678" z="408.834198" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="179.901 55.000 2428.599" isAIActive="false"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="741.520813" y="86.481117" z="417.135834" fillTypes="DIESEL DEF AIR" fillLevels="845.981 88.000 2603.150" isAIActive="false"/>
         <Vehicle name="PowerRoll 1230 HD" category="ROLLERS" type="roller" x="790.895813" y="87.389015" z="365.038422"/>
-        <Vehicle name="TS 1520/M3" category="WEEDERS" type="weeder" x="839.809875" y="88.017342" z="370.623108"/>
-        <Vehicle name="LEXION 8900" category="HARVESTERS" type="combineDrivable" x="807.383606" y="90.938202" z="-210.114731" controller="Maks" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 1143.997 100.000" isAIActive="false"/>
-        <Vehicle name="CONVIO FLEX 1380" category="CUTTERS" type="cutter" x="803.555908" y="92.377121" z="-213.684341"/>
+        <Vehicle name="TS 1520/M3" category="WEEDERS" type="weeder" x="839.808411" y="88.017357" z="370.622986"/>
+        <Vehicle name="LEXION 8900" category="HARVESTERS" type="combineDrivable" x="944.474060" y="91.671188" z="-290.512787" fillTypes="BARLEY DIESEL DEF" fillLevels="17550.444 1120.985 98.000" isAIActive="true"/>
+        <Vehicle name="CONVIO FLEX 1380" category="CUTTERS" type="cutter" x="944.605042" y="93.296440" z="-285.298462"/>
         <Vehicle name="N60-45" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="867.167542" y="87.216446" z="425.848663" fillTypes="" fillLevels=""/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="837.427490" y="87.106056" z="374.713440" fillTypes="DIESEL DEF AIR" fillLevels="638.914 88.000 2708.721" isAIActive="false"/>
-        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="833.203552" y="87.134224" z="365.899811" fillTypes="BARLEY" fillLevels="31448.588"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="837.426025" y="87.106071" z="374.713287" fillTypes="DIESEL DEF AIR" fillLevels="638.914 88.000 2708.721" isAIActive="false"/>
+        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="803.306458" y="87.130585" z="408.976044" fillTypes="BARLEY" fillLevels="31448.588"/>
         <Vehicle name="Solid Fertilizer" category="BIGBAGPALLETS" type="pallet" x="718.897156" y="87.418999" z="417.854187" fillTypes="FERTILIZER" fillLevels="992.093"/>
         <Vehicle name="Solid Fertilizer" category="BIGBAGPALLETS" type="pallet" x="724.560181" y="87.209023" z="416.673615" fillTypes="FERTILIZER" fillLevels="901.142"/>
         <Vehicle name="Solid Fertilizer" category="BIGBAGPALLETS" type="pallet" x="720.118896" y="87.466484" z="416.363586" fillTypes="FERTILIZER" fillLevels="778.286"/>
@@ -86,22 +86,22 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.502747" y="87.208008" z="381.032501" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="731.677979" y="88.116249" z="405.931793" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.118042" y="87.320862" z="354.562958" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="743.598022" y="87.283852" z="424.182495" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="743.598145" y="87.284790" z="424.182739" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="761.058777" y="87.309181" z="329.417145" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="743.210449" y="87.281319" z="423.425934" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="743.210571" y="87.282578" z="423.426117" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="755.218201" y="87.167084" z="407.328461" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="755.474365" y="87.208000" z="382.686279" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="733.677673" y="88.121216" z="405.968719" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="744.710022" y="87.282272" z="423.612274" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="744.710388" y="87.284721" z="423.612793" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.117859" y="87.320862" z="354.536896" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="742.822815" y="87.277878" z="422.669128" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="742.823181" y="87.280098" z="422.669434" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.081787" y="87.309181" z="331.190735" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.218018" y="87.169090" z="407.362244" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="757.474060" y="87.208015" z="382.719971" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="735.677185" y="88.115364" z="406.006439" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="743.935059" y="87.277489" z="422.099243" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="743.935608" y="87.280220" z="422.099670" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="761.117676" y="87.320862" z="354.510834" fillTypes="EGG" fillLevels="1400.000"/>
-        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="744.322815" y="87.281029" z="422.855896" fillTypes="EGG" fillLevels="1400.000"/>
+        <Vehicle name="Eggs" category="PALLETS" type="pallet" x="744.323059" y="87.282356" z="422.856140" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.081421" y="87.309189" z="331.164551" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.217651" y="87.166725" z="407.395691" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="759.473755" y="87.208015" z="382.753693" fillTypes="EGG" fillLevels="1400.000"/>
