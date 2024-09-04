@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="60696224" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
-    <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="true" uptime="12">Maks</Player>
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="60726681" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+    <Slots capacity="4" numUsed="2">
+        <Player isUsed="true" isAdmin="true" uptime="13">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="0">Server (1)</Player>
         <Player/>
-        <Player isUsed="false"/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
     </Slots>
@@ -24,7 +24,7 @@
         <Vehicle name="Universal Bucket" category="FRONTLOADERTOOLS" type="shovelLeveler" x="-54.607365" y="88.603210" z="-116.374771" fillTypes="UNKNOWN UNKNOWN" fillLevels="0.000 0.000"/>
         <Vehicle name="Z2-840 H" category="WINDROWERS" type="windrower" x="-9.345170" y="88.345444" z="39.094620"/>
         <Vehicle name="FGB 600" category="WEIGHTS" type="implement" x="-55.840580" y="89.042984" z="-109.782227"/>
-        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="-266.720642" y="86.961105" z="129.004486" fillTypes="UNKNOWN" fillLevels="0.000"/>
+        <Vehicle name="DPW 1800 Autoload" category="BALELOADERS" type="FS22_AutoloaderStockPackjw.PalletAutoLoaderDynMATrailer" x="-214.254105" y="86.974197" z="157.344086" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Radium 255" category="TRAILERS" type="trailer" x="-49.920433" y="88.505470" z="-50.049263" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="NOVACAT A10 Cross Flow" category="MOWERS" type="mower" x="-5.548396" y="88.270294" z="32.176701"/>
         <Vehicle name="IMPRESS 185VC PRO" category="BALERS" type="balerWrapper" x="-11.822848" y="88.435493" z="-26.989292" fillTypes="GRASS_WINDROW" fillLevels="1653.518"/>
@@ -52,7 +52,7 @@
         <Vehicle name="LEXION 8900" category="HARVESTERS" type="combineDrivable" x="-14.151281" y="88.446869" z="-93.192543" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 1096.965 100.000" isAIActive="false"/>
         <Vehicle name="CONVIO FLEX 1380" category="CUTTERS" type="cutter" x="-35.368813" y="89.406105" z="-98.493797"/>
         <Vehicle name="N60-45" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="-43.865078" y="88.463936" z="-96.712128" fillTypes="" fillLevels=""/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="-257.748596" y="87.023178" z="128.393555" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="720.933 88.000 2191.599" isAIActive="false"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="-215.672653" y="87.022934" z="166.128159" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="719.932 88.000 2069.340" isAIActive="false"/>
         <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="-13.783904" y="88.611885" z="-11.536162" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="-243.484756" y="84.045082" z="70.281158"/>
         <Vehicle name="Koralin 9-840" category="CULTIVATORS" type="cultivator" x="-12.330336" y="88.415024" z="-7.437059"/>
