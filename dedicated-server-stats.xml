@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="31550901" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="31730903" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="false" uptime="6">Maks</Player>
+        <Player isUsed="true" isAdmin="false" uptime="12">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -67,7 +67,7 @@
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="879.992249" y="-18100244480.000000" z="380.702148" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="822.808655" y="-18100244480.000000" z="311.095856" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="K165" category="FERTILIZERSPREADERS" type="spreader" x="-48.696976" y="88.552193" z="-31.443281" fillTypes="LIME" fillLevels="15.956"/>
-        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="691.974915" y="92.018845" z="-387.603516" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="542.856 88.000 3000.000" isAIActive="false"/>
+        <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="-67.778702" y="88.112091" z="-85.933151" controller="Maks" fillTypes="DIESEL DEF AIR" fillLevels="535.854 88.000 1908.188" isAIActive="false"/>
         <Vehicle name="K105" category="FERTILIZERSPREADERS" type="spreader" x="-49.433243" y="88.471329" z="-40.694687" fillTypes="FERTILIZER" fillLevels="10432.011"/>
         <Vehicle name="AXION 960-920" category="TRACTORSL" type="tractor" x="756.210510" y="88.728180" z="-466.493347" fillTypes="DIESEL DEF AIR" fillLevels="572.985 56.000 1622.198" isAIActive="false"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="843.142029" y="-18100244480.000000" z="378.923798" fillTypes="EGG" fillLevels="1400.000"/>
@@ -125,7 +125,7 @@
         <Vehicle name="LEXION 8900" category="HARVESTERS" type="combineDrivable" x="-9.403798" y="88.448151" z="-92.199196" fillTypes="UNKNOWN DIESEL DEF" fillLevels="0.000 610.594 100.000" isAIActive="false"/>
         <Vehicle name="CONVIO FLEX 1380" category="CUTTERS" type="cutter" x="32.876827" y="89.406693" z="-115.264648"/>
         <Vehicle name="N60-45" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="31.010170" y="88.462814" z="-115.387314" fillTypes="" fillLevels=""/>
-        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="697.273987" y="92.191536" z="-380.539337" fillTypes="GRASS_WINDROW" fillLevels="33012.762"/>
+        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="-70.011772" y="88.100502" z="-94.468491" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="879.330750" y="-18100244480.000000" z="321.513184" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="914.479309" y="-18100244480.000000" z="229.790329" fillTypes="EGG" fillLevels="1400.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="910.676514" y="-18100244480.000000" z="285.948944" fillTypes="EGG" fillLevels="1120.000"/>
@@ -190,7 +190,7 @@
         <Vehicle name="DSC 180" category="SILOCOMPACTION" type="silageCompressor" x="576.991272" y="92.001945" z="-440.943481"/>
         <Vehicle name="Trailed Windrower" category="WINDROWERS" type="windrower" x="-3.142610" y="88.462143" z="1.375229"/>
         <Vehicle name="SUW 5000" category="AUGERWAGONS" type="augerWagon" x="813.580505" y="89.980652" z="-152.966431" fillTypes="GRASS_WINDROW" fillLevels="21012.748"/>
-        <Vehicle name="Forage Pickup" category="BELTS" type="FS22_foragePickup.foragePickup" x="-116.805107" y="85.237984" z="-215.642273" fillTypes="UNKNOWN" fillLevels="0.000"/>
+        <Vehicle name="Forage Pickup" category="BELTS" type="FS22_foragePickup.foragePickup" x="-66.247589" y="88.804169" z="-81.728302" fillTypes="UNKNOWN" fillLevels="0.000"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
