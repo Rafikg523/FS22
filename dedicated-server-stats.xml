@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="37804714" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="37984724" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="true" uptime="24">Maks</Player>
+        <Player isUsed="true" isAdmin="true" uptime="30">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -192,9 +192,9 @@
         <Vehicle name="Forage Pickup" category="BELTS" type="FS22_foragePickup.foragePickup" x="184.126205" y="88.448105" z="-51.415749" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="169.005936" y="88.457771" z="-47.470989" fillTypes="EGG" fillLevels="63.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="135.255936" y="88.464821" z="-47.220993" fillTypes="EGG" fillLevels="145.833"/>
-        <Vehicle name="KRONE BIG ZX550GD" category="SMURFINATORTEAMMOWER" type="FS22_PSM_BIG_ZX550GD.selfPropelledMower1" x="773.774841" y="86.466080" z="466.773834" controller="Maks" fillTypes="GRASS_WINDROW DIESEL DEF UNKNOWN" fillLevels="172914.813 1874.998 378.000 0.000" isAIActive="true"/>
-        <Vehicle name="KRONE BIG ZX550GD" category="SMURFINATORTEAMMOWER" type="FS22_PSM_BIG_ZX550GD.selfPropelledMower1" x="981.898865" y="86.582443" z="102.547340" fillTypes="GRASS_WINDROW DIESEL DEF UNKNOWN" fillLevels="72855.646 1885.000 378.000 0.000" isAIActive="true"/>
-        <Vehicle name="KRONE BIG ZX550GD" category="WINSTON9587" type="FS22_CAT_BIG_ZX550GD.selfPropelledMower1" x="873.799805" y="85.918221" z="18.238302" fillTypes="GRASS_WINDROW DIESEL DEF UNKNOWN" fillLevels="31969.606 1876.997 378.000 0.000" isAIActive="true"/>
+        <Vehicle name="KRONE BIG ZX550GD" category="SMURFINATORTEAMMOWER" type="FS22_PSM_BIG_ZX550GD.selfPropelledMower1" x="808.518860" y="86.466255" z="472.448669" fillTypes="GRASS_WINDROW DIESEL DEF UNKNOWN" fillLevels="221618.241 1871.997 378.000 0.000" isAIActive="true"/>
+        <Vehicle name="KRONE BIG ZX550GD" category="SMURFINATORTEAMMOWER" type="FS22_PSM_BIG_ZX550GD.selfPropelledMower1" x="993.878052" y="88.015938" z="85.806129" fillTypes="GRASS_WINDROW DIESEL DEF UNKNOWN" fillLevels="105446.772 1880.999 378.000 0.000" isAIActive="true"/>
+        <Vehicle name="KRONE BIG ZX550GD" category="WINSTON9587" type="FS22_CAT_BIG_ZX550GD.selfPropelledMower1" x="548.450012" y="91.807899" z="-396.225983" controller="Maks" fillTypes="GRASS_WINDROW DIESEL DEF UNKNOWN" fillLevels="53509.858 1871.996 378.000 0.000" isAIActive="false"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
