@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="37264695" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
+<Server game="Farming Simulator 22" version="1.14.0.0" name="Polagro" mapName="Brzozowka" dayTime="37444700" mapOverviewFilename="$moddir$FS22_Brzozowka/maps/overview.png" mapSize="2048">
     <Slots capacity="4" numUsed="1">
-        <Player isUsed="true" isAdmin="true" uptime="6">Maks</Player>
+        <Player isUsed="true" isAdmin="true" uptime="12">Maks</Player>
         <Player/>
         <Player isUsed="false"/>
         <Player isUsed="false"/>
@@ -51,7 +51,7 @@
         <Vehicle name="CONVIO FLEX 1380" category="CUTTERS" type="cutter" x="32.860870" y="89.404823" z="-111.203369"/>
         <Vehicle name="N60-45" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="30.990932" y="88.461563" z="-111.141281" fillTypes="" fillLevels=""/>
         <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="593.022095" y="92.025108" z="-420.253723" fillTypes="DIESEL DEF AIR" fillLevels="531.866 88.000 2856.284" isAIActive="false"/>
-        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="855.844788" y="85.369087" z="-438.310455" fillTypes="GRASS_WINDROW" fillLevels="18805.018"/>
+        <Vehicle name="GX 520" category="TRAILERS" type="trailer" x="855.825134" y="85.323532" z="-438.975952" fillTypes="GRASS_WINDROW" fillLevels="18805.018"/>
         <Vehicle name="Kompaktomat 1570 Max" category="CULTIVATORS" type="cultivator" x="-11.447890" y="88.508453" z="-38.238377"/>
         <Vehicle name="Koralin 9-840" category="CULTIVATORS" type="cultivator" x="-13.313354" y="88.415024" z="-9.242142"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="862.254517" y="-18532241408.000000" z="296.529083" fillTypes="EGG" fillLevels="1400.000"/>
@@ -173,14 +173,14 @@
         <Vehicle name="TS 1520/M3" category="WEEDERS" type="weeder" x="115.180588" y="88.635780" z="-9.888133"/>
         <Vehicle name="SM 82" category="PLOWS" type="plow" x="113.329613" y="88.334953" z="2.847473"/>
         <Vehicle name="JAGUAR 960 TERRA TRAC" category="FORAGEHARVESTERS" type="combineDrivable" x="588.469788" y="91.915169" z="-388.416138" fillTypes="GRASS_WINDROW DIESEL DEF SILAGE_ADDITIVE" fillLevels="4.714 700.518 130.000 12.807" isAIActive="false"/>
-        <Vehicle name="DIRECT DISC 600" category="FORAGEHARVESTERCUTTERS" type="cutter" x="858.623718" y="87.364166" z="-426.144745"/>
+        <Vehicle name="DIRECT DISC 600" category="FORAGEHARVESTERCUTTERS" type="cutter" x="858.445801" y="87.277718" z="-426.839539"/>
         <Vehicle name="DIRECT DISC 600 Trailer" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="702.212280" y="93.190247" z="-294.338806" fillTypes="" fillLevels=""/>
         <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="566.334595" y="92.023064" z="-396.525024" fillTypes="DIESEL DEF AIR" fillLevels="818.959 88.000 1533.815" isAIActive="false"/>
         <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="623.381226" y="91.864838" z="-450.340851" fillTypes="DIESEL DEF AIR" fillLevels="723.926 88.000 2017.538" isAIActive="false"/>
         <Vehicle name="XERION 5000-4500" category="TRACTORSL" type="tractorReverseDriving" x="-24.167002" y="88.465790" z="-112.368202" fillTypes="DIESEL DEF AIR" fillLevels="877.983 88.000 1958.945" isAIActive="false"/>
         <Vehicle name="CARGOS 9500" category="LOADERWAGONS" type="forageWagon" x="-17.241907" y="88.395241" z="15.155540" fillTypes="UNKNOWN SILAGE_ADDITIVE" fillLevels="0.000 10.000"/>
         <Vehicle name="QUADRANT 5300 FC" category="BALERS" type="baler" x="1.512457" y="88.475418" z="-3.184483" fillTypes="STRAW" fillLevels="2309.567"/>
-        <Vehicle name="JAGUAR 960 TERRA TRAC" category="FORAGEHARVESTERS" type="combineDrivable" x="856.392456" y="85.749138" z="-429.942871" fillTypes="UNKNOWN DIESEL DEF SILAGE_ADDITIVE" fillLevels="0.000 405.260 130.000 8.966" isAIActive="false"/>
+        <Vehicle name="JAGUAR 960 TERRA TRAC" category="FORAGEHARVESTERS" type="combineDrivable" x="856.214966" y="85.665237" z="-430.639008" fillTypes="UNKNOWN DIESEL DEF SILAGE_ADDITIVE" fillLevels="0.000 405.260 130.000 8.966" isAIActive="false"/>
         <Vehicle name="DIRECT DISC 600 Trailer" category="CUTTERTRAILERS" type="dynamicMountAttacherTrailer" x="699.078430" y="93.163513" z="-316.695129" fillTypes="" fillLevels=""/>
         <Vehicle name="DIRECT DISC 600" category="FORAGEHARVESTERCUTTERS" type="cutter" x="593.069275" y="92.835358" z="-388.310730"/>
         <Vehicle name="BONSILAGE Silage Additive" category="PALLETS" type="pallet" x="706.732422" y="93.363609" z="-310.852478" fillTypes="SILAGE_ADDITIVE" fillLevels="40.466"/>
@@ -192,10 +192,10 @@
         <Vehicle name="Forage Pickup" category="BELTS" type="FS22_foragePickup.foragePickup" x="184.126205" y="88.448105" z="-51.415749" fillTypes="UNKNOWN" fillLevels="0.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="169.005936" y="88.457771" z="-47.470989" fillTypes="EGG" fillLevels="63.000"/>
         <Vehicle name="Eggs" category="PALLETS" type="pallet" x="135.255936" y="88.464821" z="-47.220993" fillTypes="EGG" fillLevels="145.833"/>
-        <Vehicle name="KRONE BIG ZX550GD" category="SMURFINATORTEAMMOWER" type="FS22_PSM_BIG_ZX550GD.selfPropelledMower1" x="764.876831" y="87.125168" z="298.547729" fillTypes="GRASS_WINDROW DIESEL DEF UNKNOWN" fillLevels="57285.753 1883.999 378.000 0.000" isAIActive="true"/>
+        <Vehicle name="KRONE BIG ZX550GD" category="SMURFINATORTEAMMOWER" type="FS22_PSM_BIG_ZX550GD.selfPropelledMower1" x="734.062500" y="85.909172" z="427.089752" fillTypes="GRASS_WINDROW DIESEL DEF UNKNOWN" fillLevels="75649.017 1880.998 378.000 0.000" isAIActive="true"/>
         <Vehicle name="KRONE BIG ZX550GD" category="SMURFINATORTEAMMOWER" type="FS22_PSM_BIG_ZX550GD.selfPropelledMower1" x="877.100464" y="86.492874" z="384.063324" fillTypes="UNKNOWN DIESEL DEF UNKNOWN" fillLevels="0.000 1889.000 378.000 0.000" isAIActive="false"/>
         <Vehicle name="CAT BIG ZX550GD" category="WINSTON9587" type="FS22_CAT_BIG_ZX550GD.selfPropelledMower1" x="875.066589" y="86.472931" z="398.904236" fillTypes="UNKNOWN DIESEL DEF UNKNOWN" fillLevels="0.000 1887.999 378.000 0.000" isAIActive="false"/>
-        <Vehicle name="KRONE BIG ZX550GD" category="WINSTON9587" type="FS22_CAT_BIG_ZX550GD.selfPropelledMower1" x="2.939264" y="84.378197" z="-229.855560" controller="Maks" fillTypes="UNKNOWN DIESEL DEF UNKNOWN" fillLevels="0.000 1890.000 378.000 0.000" isAIActive="false"/>
+        <Vehicle name="KRONE BIG ZX550GD" category="WINSTON9587" type="FS22_CAT_BIG_ZX550GD.selfPropelledMower1" x="881.320251" y="84.019623" z="304.506287" controller="Maks" fillTypes="UNKNOWN DIESEL DEF UNKNOWN" fillLevels="0.000 1886.999 378.000 0.000" isAIActive="false"/>
     </Vehicles>
     <Mods>
         <Mod name="FS22_additionalGameSettings" author="Rockstar" version="1.2.0.1" hash="d0861b54bb95fd567726408d4806e913">Additional Game Settings</Mod>
